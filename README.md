@@ -2,8 +2,7 @@
 
 Code and measurement data for
 
-> Energy-Efficient Scheduling of On-Device Generative-Model Inference on
-> Heterogeneous Embedded SoCs under Soft Real-Time Constraints
+
 
 Every number reported in the paper is computed by the scripts below. The charts
 themselves were drawn separately and are not part of this release.
@@ -51,18 +50,6 @@ for the requirements (NVIDIA GPU, llama.cpp, NVML, administrator rights to lock
 the clocks). This step is optional and is not needed to reproduce the paper.
 
 
-## Where each result comes from
-
-| Paper item | Produced by |
-|---|---|
-| Tables 2, 3 and the values in Figs 5, 6, 8-11 | `simulation/pace_sim.py` |
-| Tables 4-8 and the values in Fig. 12 | `simulation/pace_revision_experiments.py` |
-| Fig. 7 (ablation): PE-map only, Static-Best | `simulation/pace_revision_experiments.py` (`baselines`) |
-| Table 9 and the values in Fig. 13 | `hardware/analysis/analyse.py` from `hardware/data/` |
-| Figs 1-4 | schematic diagrams |
-
-`results_rev/` and `results_hw/` ship with the published output of the two
-analysis steps, so the numbers can be checked without re-running anything.
 
 
 ## Platform parameters
