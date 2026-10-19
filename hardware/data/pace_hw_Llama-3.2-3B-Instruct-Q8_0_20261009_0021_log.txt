@@ -1,0 +1,395 @@
+
+First run: the files that are still missing are downloaded now. This happens only once.
+An interrupted download continues where it stopped when you run main.py again.
+
+Model Llama-3.2-3B-Instruct-Q8_0.gguf: 3.42 GB (one time)
+  Llama-3.2-3B-Instruct-Q8_0.gguf from www.modelscope.cn
+    33 MB of 3.42 GB (0%), 8.1 MB/s, about 7 min left
+    46 MB of 3.42 GB (1%), 5.8 MB/s, about 10 min left
+    84 MB of 3.42 GB (2%), 6.9 MB/s, about 9 min left
+    124 MB of 3.42 GB (3%), 7.7 MB/s, about 8 min left
+    165 MB of 3.42 GB (4%), 8.2 MB/s, about 7 min left
+    207 MB of 3.42 GB (6%), 8.5 MB/s, about 7 min left
+    249 MB of 3.42 GB (7%), 8.8 MB/s, about 7 min left
+    280 MB of 3.42 GB (8%), 8.6 MB/s, about 7 min left
+    314 MB of 3.42 GB (9%), 8.6 MB/s, about 7 min left
+    connection problem (the connection closed early); continuing
+    365 MB of 3.42 GB (10%), 9.0 MB/s, about 6 min left
+    405 MB of 3.42 GB (11%), 9.4 MB/s, about 6 min left
+    451 MB of 3.42 GB (13%), 10.1 MB/s, about 5 min left
+    475 MB of 3.42 GB (13%), 7.3 MB/s, about 7 min left
+    477 MB of 3.42 GB (13%), 5.0 MB/s, about 10 min left
+    478 MB of 3.42 GB (13%), 4.3 MB/s, about 12 min left
+    513 MB of 3.42 GB (14%), 4.3 MB/s, about 12 min left
+    515 MB of 3.42 GB (15%), 3.6 MB/s, about 14 min left
+    517 MB of 3.42 GB (15%), 3.4 MB/s, about 15 min left
+    521 MB of 3.42 GB (15%), 3.0 MB/s, about 17 min left
+    522 MB of 3.42 GB (15%), 2.7 MB/s, about 18 min left
+    523 MB of 3.42 GB (15%), 2.5 MB/s, about 19 min left
+    524 MB of 3.42 GB (15%), 2.4 MB/s, about 21 min left
+    525 MB of 3.42 GB (15%), 2.3 MB/s, about 22 min left
+    526 MB of 3.42 GB (15%), 2.2 MB/s, about 23 min left
+    528 MB of 3.42 GB (15%), 2.1 MB/s, about 24 min left
+    529 MB of 3.42 GB (15%), 2.0 MB/s, about 25 min left
+    534 MB of 3.42 GB (15%), 1.9 MB/s, about 25 min left
+    535 MB of 3.42 GB (15%), 1.8 MB/s, about 27 min left
+    536 MB of 3.42 GB (15%), 1.8 MB/s, about 28 min left
+    537 MB of 3.42 GB (15%), 1.7 MB/s, about 29 min left
+    538 MB of 3.42 GB (15%), 1.6 MB/s, about 30 min left
+    539 MB of 3.42 GB (15%), 1.6 MB/s, about 31 min left
+    540 MB of 3.42 GB (15%), 1.5 MB/s, about 32 min left
+    541 MB of 3.42 GB (15%), 1.5 MB/s, about 33 min left
+    586 MB of 3.42 GB (17%), 1.8 MB/s, about 27 min left
+    605 MB of 3.42 GB (17%), 1.8 MB/s, about 27 min left
+    606 MB of 3.42 GB (17%), 1.7 MB/s, about 27 min left
+    607 MB of 3.42 GB (17%), 1.7 MB/s, about 28 min left
+    608 MB of 3.42 GB (17%), 1.6 MB/s, about 29 min left
+    608 MB of 3.42 GB (17%), 0.2 MB/s, about 200 min left
+    this address is slow (less than 80 kB/s); trying another one
+  Llama-3.2-3B-Instruct-Q8_0.gguf from modelscope.cn (continuing)
+    653 MB of 3.42 GB (19%), 10.8 MB/s, about 5 min left
+    671 MB of 3.42 GB (19%), 7.8 MB/s, about 6 min left
+    718 MB of 3.42 GB (20%), 9.0 MB/s, about 6 min left
+    766 MB of 3.42 GB (22%), 9.7 MB/s, about 5 min left
+    813 MB of 3.42 GB (23%), 10.1 MB/s, about 5 min left
+    861 MB of 3.42 GB (25%), 10.4 MB/s, about 5 min left
+    909 MB of 3.42 GB (26%), 10.6 MB/s, about 4 min left
+    958 MB of 3.42 GB (27%), 10.8 MB/s, about 4 min left
+    1.01 GB of 3.42 GB (29%), 10.9 MB/s, about 4 min left
+    1.05 GB of 3.42 GB (30%), 11.0 MB/s, about 4 min left
+    1.10 GB of 3.42 GB (32%), 11.0 MB/s, about 4 min left
+    1.15 GB of 3.42 GB (33%), 11.1 MB/s, about 4 min left
+    1.20 GB of 3.42 GB (34%), 11.1 MB/s, about 4 min left
+    1.24 GB of 3.42 GB (36%), 11.2 MB/s, about 4 min left
+    1.29 GB of 3.42 GB (37%), 11.2 MB/s, about 4 min left
+    1.34 GB of 3.42 GB (39%), 11.2 MB/s, about 4 min left
+    1.39 GB of 3.42 GB (40%), 11.3 MB/s, about 4 min left
+    1.43 GB of 3.42 GB (41%), 11.3 MB/s, about 3 min left
+    1.48 GB of 3.42 GB (43%), 11.3 MB/s, about 3 min left
+    1.52 GB of 3.42 GB (44%), 11.2 MB/s, about 3 min left
+    1.56 GB of 3.42 GB (45%), 11.2 MB/s, about 3 min left
+    1.61 GB of 3.42 GB (46%), 11.2 MB/s, about 3 min left
+    1.65 GB of 3.42 GB (48%), 11.2 MB/s, about 3 min left
+    1.70 GB of 3.42 GB (49%), 11.2 MB/s, about 3 min left
+    1.74 GB of 3.42 GB (50%), 11.2 MB/s, about 3 min left
+    1.79 GB of 3.42 GB (52%), 11.2 MB/s, about 3 min left
+    1.83 GB of 3.42 GB (53%), 11.2 MB/s, about 3 min left
+    1.88 GB of 3.42 GB (54%), 11.2 MB/s, about 3 min left
+    1.92 GB of 3.42 GB (56%), 11.2 MB/s, about 3 min left
+    1.97 GB of 3.42 GB (57%), 11.2 MB/s, about 3 min left
+    2.01 GB of 3.42 GB (58%), 11.2 MB/s, about 3 min left
+    2.06 GB of 3.42 GB (60%), 11.2 MB/s, about 3 min left
+    2.11 GB of 3.42 GB (61%), 11.2 MB/s, about 2 min left
+    2.15 GB of 3.42 GB (62%), 11.2 MB/s, about 2 min left
+    2.20 GB of 3.42 GB (64%), 11.2 MB/s, about 2 min left
+    2.25 GB of 3.42 GB (65%), 11.2 MB/s, about 2 min left
+    2.29 GB of 3.42 GB (67%), 11.2 MB/s, about 2 min left
+    2.34 GB of 3.42 GB (68%), 11.3 MB/s, about 2 min left
+    2.39 GB of 3.42 GB (69%), 11.3 MB/s, about 2 min left
+    2.43 GB of 3.42 GB (71%), 11.3 MB/s, about 2 min left
+    2.48 GB of 3.42 GB (72%), 11.3 MB/s, about 2 min left
+    2.53 GB of 3.42 GB (73%), 11.3 MB/s, about 2 min left
+    2.58 GB of 3.42 GB (75%), 11.3 MB/s, about 2 min left
+    2.62 GB of 3.42 GB (76%), 11.3 MB/s, about 2 min left
+    2.67 GB of 3.42 GB (77%), 11.3 MB/s, about 2 min left
+    2.72 GB of 3.42 GB (79%), 11.3 MB/s, about 2 min left
+    2.76 GB of 3.42 GB (80%), 11.3 MB/s, about 1 min left
+    2.81 GB of 3.42 GB (82%), 11.3 MB/s, about 1 min left
+    2.85 GB of 3.42 GB (83%), 11.3 MB/s, about 1 min left
+    2.90 GB of 3.42 GB (84%), 11.3 MB/s, about 1 min left
+    2.94 GB of 3.42 GB (86%), 11.3 MB/s, about 1 min left
+    2.99 GB of 3.42 GB (87%), 11.3 MB/s, about 1 min left
+    3.04 GB of 3.42 GB (88%), 11.3 MB/s, about 1 min left
+    3.09 GB of 3.42 GB (90%), 11.3 MB/s, about 1 min left
+    3.13 GB of 3.42 GB (91%), 11.3 MB/s, about 1 min left
+    3.18 GB of 3.42 GB (92%), 11.3 MB/s, about 1 min left
+    3.22 GB of 3.42 GB (94%), 11.3 MB/s, about 1 min left
+    3.26 GB of 3.42 GB (95%), 11.3 MB/s, about 1 min left
+    3.31 GB of 3.42 GB (96%), 11.3 MB/s, about 1 min left
+    3.36 GB of 3.42 GB (98%), 11.3 MB/s, about 1 min left
+    3.40 GB of 3.42 GB (99%), 11.3 MB/s, about 1 min left
+    checking the file ...
+    done
+
+Everything is ready.
+
+pace_hw_sweep 1.1
+Plan
+  clock settings   : 11  (core lock 600,900,1200,1500,1800,2100,2400,0 MHz  x  memory lock 6001,7001,8001,0 MHz, grid 'cross'; 0 = driver default)
+  tests per setting: prefill 128, prefill 1024, decode d0, decode d1024
+  passes           : 2, each in a different random order
+  at default clocks: prefill 32, prefill 64, prefill 128, prefill 256, prefill 512, prefill 1024, prefill 2048, decode d0, decode d512, decode d1024, decode d2048, decode d4096
+  measurements     : 101, each runs for about 7 s -> about 18 minutes for a 1B model
+
+GPU      : NVIDIA GeForce RTX 4060 Laptop GPU (driver 580.97)
+Sensors  : power yes, instantaneous power yes, energy counter yes
+Locks    : allowed (through NVML)
+Idle     : 16.2 W, power limit now 140 W (default 115 W)
+Model    : llama 3B Q8_0, 3.41 GB, 3.21 B parameters | llama.cpp build 11425, backend CUDA
+  prefill 512   core auto  mem auto |   0.1601 ms/tok   6247.3 tok/s | 108.3 W   17.334 mJ/tok | 2640/8501 MHz
+Power    : GPU power sensor 108.3 W, its 1-second average 108.3 W, energy counter 199.9 W
+           The energy counter does not match the power sensor on this GPU. All results use the sensor.
+Memory   : lock 6001 -> 6001 MHz, lock 7001 -> 7001 MHz, lock 8001 -> 8501 MHz (default 8501 MHz)
+           memory lock 8001 MHz is left out: it runs at 8501 MHz, the same as the default
+           -> 10 clock settings, 93 measurements, about 16 minutes
+Results  : D:\codeFiles\PycharmProjects\PACE_hw_validation\results\pace_hw_Llama-3.2-3B-Instruct-Q8_0_20261009_0021.csv
+
+Please leave the laptop alone while this runs. Ctrl+C stops it safely.
+
+Default clocks (the driver chooses)
+  prefill 32    core auto  mem auto |   0.5291 ms/tok   1889.9 tok/s |  91.8 W   48.570 mJ/tok | 2640/8501 MHz
+  prefill 64    core auto  mem auto |   0.3002 ms/tok   3330.8 tok/s | 103.2 W   31.000 mJ/tok | 2640/8501 MHz
+  prefill 128   core auto  mem auto |   0.1939 ms/tok   5156.2 tok/s | 112.9 W   21.893 mJ/tok | 2640/8501 MHz
+  prefill 256   core auto  mem auto |   0.1651 ms/tok   6058.7 tok/s | 117.4 W   19.375 mJ/tok | 2625/8501 MHz  limit: sw_thermal
+  prefill 512   core auto  mem auto |   0.1612 ms/tok   6201.9 tok/s | 113.2 W   18.244 mJ/tok | 2625/8501 MHz  limit: sw_thermal
+  prefill 1024  core auto  mem auto |   0.1625 ms/tok   6153.4 tok/s | 114.9 W   18.669 mJ/tok | 2580/8501 MHz  limit: sw_thermal
+  prefill 2048  core auto  mem auto |   0.1696 ms/tok   5897.0 tok/s | 109.7 W   18.609 mJ/tok | 2580/8501 MHz  limit: sw_thermal
+  decode d0     core auto  mem auto |  14.0036 ms/tok     71.4 tok/s |  89.2 W 1249.259 mJ/tok | 2640/8501 MHz
+  decode d512   core auto  mem auto |  14.3268 ms/tok     69.8 tok/s |  89.3 W 1280.009 mJ/tok | 2640/8501 MHz
+  decode d1024  core auto  mem auto |  14.5685 ms/tok     68.6 tok/s |  88.6 W 1291.100 mJ/tok | 2640/8501 MHz
+  decode d2048  core auto  mem auto |  15.0412 ms/tok     66.5 tok/s |  83.1 W 1249.550 mJ/tok | 2535/8501 MHz  limit: sw_thermal  [clock_unsteady]
+  decode d4096  core auto  mem auto |  15.8867 ms/tok     63.0 tok/s |  82.1 W 1304.629 mJ/tok | 2550/8501 MHz  limit: sw_thermal  [clock_unsteady]
+
+Clock grid, pass 1 of 2 (10 settings)
+  prefill 128   core auto  mem auto |   0.1953 ms/tok   5120.1 tok/s | 112.2 W   21.906 mJ/tok | 2580/8501 MHz  limit: sw_thermal
+  prefill 1024  core auto  mem auto |   0.1655 ms/tok   6043.3 tok/s | 106.9 W   17.691 mJ/tok | 2565/8501 MHz  limit: sw_thermal
+  decode d0     core auto  mem auto |  14.1296 ms/tok     70.8 tok/s |  84.2 W 1189.423 mJ/tok | 2550/8501 MHz  limit: sw_thermal  [clock_unsteady]
+  decode d1024  core auto  mem auto |  14.6443 ms/tok     68.3 tok/s |  78.9 W 1155.449 mJ/tok | 2378/8501 MHz  limit: sw_thermal  [clock_unsteady]
+  prefill 128   core auto  mem 6001 |   0.2453 ms/tok   4076.3 tok/s |  88.5 W   21.705 mJ/tok | 2640/6001 MHz
+  prefill 1024  core auto  mem 6001 |   0.1795 ms/tok   5571.7 tok/s | 100.4 W   18.023 mJ/tok | 2625/6001 MHz
+  decode d0     core auto  mem 6001 |  19.7025 ms/tok     50.8 tok/s |  63.3 W 1247.762 mJ/tok | 2640/6001 MHz
+  decode d1024  core auto  mem 6001 |  20.4294 ms/tok     49.0 tok/s |  63.0 W 1285.938 mJ/tok | 2640/6001 MHz
+  ... about 16 minutes left
+  prefill 128   core auto  mem 7001 |   0.2191 ms/tok   4563.4 tok/s |  96.6 W   21.164 mJ/tok | 2640/7001 MHz
+  prefill 1024  core auto  mem 7001 |   0.1694 ms/tok   5904.9 tok/s | 105.6 W   17.891 mJ/tok | 2625/7001 MHz
+  decode d0     core auto  mem 7001 |  16.9458 ms/tok     59.0 tok/s |  70.2 W 1189.364 mJ/tok | 2640/7001 MHz
+  decode d1024  core auto  mem 7001 |  17.5588 ms/tok     57.0 tok/s |  70.1 W 1230.799 mJ/tok | 2640/7001 MHz
+  prefill 128   core 900   mem auto |   0.4565 ms/tok   2190.7 tok/s |  34.5 W   15.746 mJ/tok | 900/8501 MHz
+  prefill 1024  core 900   mem auto |   0.4128 ms/tok   2422.2 tok/s |  29.6 W   12.214 mJ/tok | 900/8501 MHz
+  decode d0     core 900   mem auto |  19.6797 ms/tok     50.8 tok/s |  42.2 W  830.548 mJ/tok | 900/8501 MHz
+  decode d1024  core 900   mem auto |  20.5000 ms/tok     48.8 tok/s |  41.9 W  858.397 mJ/tok | 900/8501 MHz
+  prefill 128   core 2400  mem auto |   0.2043 ms/tok   4895.8 tok/s |  89.5 W   18.289 mJ/tok | 2400/8501 MHz
+  prefill 1024  core 2400  mem auto |   0.1729 ms/tok   5783.7 tok/s |  86.7 W   14.986 mJ/tok | 2400/8501 MHz
+  decode d0     core 2400  mem auto |  14.1598 ms/tok     70.6 tok/s |  75.3 W 1066.538 mJ/tok | 2400/8501 MHz
+  decode d1024  core 2400  mem auto |  14.5786 ms/tok     68.6 tok/s |  75.2 W 1096.205 mJ/tok | 2400/8501 MHz
+  prefill 128   core 1800  mem auto |   0.2470 ms/tok   4047.8 tok/s |  59.0 W   14.565 mJ/tok | 1800/8501 MHz
+  prefill 1024  core 1800  mem auto |   0.2181 ms/tok   4584.8 tok/s |  53.6 W   11.688 mJ/tok | 1800/8501 MHz
+  decode d0     core 1800  mem auto |  14.3623 ms/tok     69.6 tok/s |  57.4 W  824.384 mJ/tok | 1800/8501 MHz
+  decode d1024  core 1800  mem auto |  14.8898 ms/tok     67.2 tok/s |  57.6 W  857.725 mJ/tok | 1800/8501 MHz
+  prefill 128   core 1200  mem auto |   0.3465 ms/tok   2885.7 tok/s |  39.0 W   13.531 mJ/tok | 1200/8501 MHz
+  prefill 1024  core 1200  mem auto |   0.3124 ms/tok   3200.8 tok/s |  34.1 W   10.659 mJ/tok | 1200/8501 MHz
+  decode d0     core 1200  mem auto |  15.2008 ms/tok     65.8 tok/s |  46.6 W  709.014 mJ/tok | 1200/8501 MHz
+  decode d1024  core 1200  mem auto |  15.8024 ms/tok     63.3 tok/s |  46.0 W  726.858 mJ/tok | 1200/8501 MHz
+  ... about 10 minutes left
+  prefill 128   core 600   mem auto |   0.6474 ms/tok   1544.6 tok/s |  28.5 W   18.455 mJ/tok | 600/8501 MHz
+  prefill 1024  core 600   mem auto |   0.6001 ms/tok   1666.3 tok/s |  24.4 W   14.620 mJ/tok | 600/8501 MHz
+  decode d0     core 600   mem auto |  22.7171 ms/tok     44.0 tok/s |  39.9 W  906.013 mJ/tok | 600/8501 MHz
+  decode d1024  core 600   mem auto |  23.8838 ms/tok     41.9 tok/s |  39.7 W  949.121 mJ/tok | 600/8501 MHz
+  prefill 128   core 2100  mem auto |   0.2212 ms/tok   4520.2 tok/s |  70.7 W   15.648 mJ/tok | 2100/8501 MHz
+  prefill 1024  core 2100  mem auto |   0.1921 ms/tok   5204.7 tok/s |  65.4 W   12.560 mJ/tok | 2100/8501 MHz
+  decode d0     core 2100  mem auto |  14.2700 ms/tok     70.1 tok/s |  63.4 W  904.961 mJ/tok | 2100/8501 MHz
+  decode d1024  core 2100  mem auto |  14.7340 ms/tok     67.9 tok/s |  63.1 W  929.796 mJ/tok | 2100/8501 MHz
+  prefill 128   core 1500  mem auto |   0.2859 ms/tok   3497.4 tok/s |  47.4 W   13.564 mJ/tok | 1500/8501 MHz
+  prefill 1024  core 1500  mem auto |   0.2554 ms/tok   3915.5 tok/s |  41.7 W   10.651 mJ/tok | 1500/8501 MHz
+  decode d0     core 1500  mem auto |  14.6078 ms/tok     68.5 tok/s |  51.1 W  745.858 mJ/tok | 1500/8501 MHz
+  decode d1024  core 1500  mem auto |  15.2282 ms/tok     65.7 tok/s |  50.0 W  760.700 mJ/tok | 1500/8501 MHz
+
+Clock grid, pass 2 of 2 (10 settings)
+  prefill 128   core auto  mem auto |   0.1948 ms/tok   5134.4 tok/s | 112.6 W   21.930 mJ/tok | 2625/8501 MHz
+  prefill 1024  core auto  mem auto |   0.1627 ms/tok   6144.9 tok/s | 110.4 W   17.965 mJ/tok | 2580/8501 MHz  limit: sw_thermal
+  decode d0     core auto  mem auto |  14.0073 ms/tok     71.4 tok/s |  89.4 W 1252.830 mJ/tok | 2640/8501 MHz
+  decode d1024  core auto  mem auto |  14.4998 ms/tok     69.0 tok/s |  89.4 W 1295.963 mJ/tok | 2640/8501 MHz  limit: sw_thermal
+  prefill 128   core auto  mem 7001 |   0.2191 ms/tok   4564.5 tok/s |  97.7 W   21.406 mJ/tok | 2625/7001 MHz
+  prefill 1024  core auto  mem 7001 |   0.1700 ms/tok   5882.2 tok/s | 105.8 W   17.988 mJ/tok | 2625/7001 MHz  limit: sw_thermal
+  decode d0     core auto  mem 7001 |  17.0038 ms/tok     58.8 tok/s |  70.5 W 1198.997 mJ/tok | 2640/7001 MHz
+  decode d1024  core auto  mem 7001 |  17.5074 ms/tok     57.1 tok/s |  70.9 W 1241.671 mJ/tok | 2640/7001 MHz
+  ... about 6 minutes left
+  prefill 128   core 2400  mem auto |   0.2036 ms/tok   4910.8 tok/s |  92.6 W   18.855 mJ/tok | 2400/8501 MHz
+  prefill 1024  core 2400  mem auto |   0.1728 ms/tok   5786.9 tok/s |  89.3 W   15.425 mJ/tok | 2400/8501 MHz
+  decode d0     core 2400  mem auto |  14.1552 ms/tok     70.7 tok/s |  75.4 W 1067.062 mJ/tok | 2400/8501 MHz
+  decode d1024  core 2400  mem auto |  14.6437 ms/tok     68.3 tok/s |  75.1 W 1099.739 mJ/tok | 2400/8501 MHz  limit: sw_thermal
+  prefill 128   core auto  mem 6001 |   0.2455 ms/tok   4073.5 tok/s |  88.3 W   21.669 mJ/tok | 2640/6001 MHz
+  prefill 1024  core auto  mem 6001 |   0.1794 ms/tok   5573.7 tok/s | 100.7 W   18.071 mJ/tok | 2625/6001 MHz
+  decode d0     core auto  mem 6001 |  19.6833 ms/tok     50.8 tok/s |  63.5 W 1249.853 mJ/tok | 2640/6001 MHz
+  decode d1024  core auto  mem 6001 |  20.3876 ms/tok     49.0 tok/s |  63.1 W 1286.178 mJ/tok | 2640/6001 MHz
+  prefill 128   core 1200  mem auto |   0.3471 ms/tok   2880.9 tok/s |  39.2 W   13.607 mJ/tok | 1200/8501 MHz
+  prefill 1024  core 1200  mem auto |   0.3127 ms/tok   3197.7 tok/s |  34.2 W   10.694 mJ/tok | 1200/8501 MHz
+  decode d0     core 1200  mem auto |  15.2262 ms/tok     65.7 tok/s |  46.7 W  711.695 mJ/tok | 1200/8501 MHz
+  decode d1024  core 1200  mem auto |  15.8264 ms/tok     63.2 tok/s |  46.6 W  738.107 mJ/tok | 1200/8501 MHz
+  prefill 128   core 2100  mem auto |   0.2221 ms/tok   4502.6 tok/s |  71.1 W   15.792 mJ/tok | 2100/8501 MHz
+  prefill 1024  core 2100  mem auto |   0.1921 ms/tok   5205.6 tok/s |  65.7 W   12.616 mJ/tok | 2100/8501 MHz
+  decode d0     core 2100  mem auto |  14.2813 ms/tok     70.0 tok/s |  63.6 W  908.418 mJ/tok | 2100/8501 MHz
+  decode d1024  core 2100  mem auto |  14.6933 ms/tok     68.1 tok/s |  64.2 W  943.640 mJ/tok | 2100/8501 MHz
+  prefill 128   core 900   mem auto |   0.4558 ms/tok   2194.1 tok/s |  34.5 W   15.713 mJ/tok | 900/8501 MHz
+  prefill 1024  core 900   mem auto |   0.4127 ms/tok   2423.3 tok/s |  29.6 W   12.205 mJ/tok | 900/8501 MHz
+  decode d0     core 900   mem auto |  19.7616 ms/tok     50.6 tok/s |  42.2 W  833.214 mJ/tok | 900/8501 MHz
+  decode d1024  core 900   mem auto |  20.5638 ms/tok     48.6 tok/s |  41.9 W  862.399 mJ/tok | 900/8501 MHz
+  ... about 2 minutes left
+  prefill 128   core 1500  mem auto |   0.2861 ms/tok   3495.6 tok/s |  47.2 W   13.502 mJ/tok | 1500/8501 MHz
+  prefill 1024  core 1500  mem auto |   0.2553 ms/tok   3916.3 tok/s |  41.7 W   10.646 mJ/tok | 1500/8501 MHz
+  decode d0     core 1500  mem auto |  14.5842 ms/tok     68.6 tok/s |  51.1 W  745.594 mJ/tok | 1500/8501 MHz
+  decode d1024  core 1500  mem auto |  15.2389 ms/tok     65.6 tok/s |  51.0 W  776.677 mJ/tok | 1500/8501 MHz
+  prefill 128   core 600   mem auto |   0.6474 ms/tok   1544.5 tok/s |  28.5 W   18.471 mJ/tok | 600/8501 MHz
+  prefill 1024  core 600   mem auto |   0.6002 ms/tok   1666.2 tok/s |  24.2 W   14.550 mJ/tok | 600/8501 MHz
+  decode d0     core 600   mem auto |  22.6541 ms/tok     44.1 tok/s |  40.1 W  908.091 mJ/tok | 600/8501 MHz
+  decode d1024  core 600   mem auto |  23.9029 ms/tok     41.8 tok/s |  39.6 W  946.300 mJ/tok | 600/8501 MHz
+  prefill 128   core 1800  mem auto |   0.2474 ms/tok   4042.5 tok/s |  58.2 W   14.410 mJ/tok | 1800/8501 MHz
+  prefill 1024  core 1800  mem auto |   0.2182 ms/tok   4582.8 tok/s |  52.8 W   11.520 mJ/tok | 1800/8501 MHz
+  decode d0     core 1800  mem auto |  14.3626 ms/tok     69.6 tok/s |  57.1 W  820.625 mJ/tok | 1800/8501 MHz
+  decode d1024  core 1800  mem auto |  14.8499 ms/tok     67.3 tok/s |  57.6 W  854.916 mJ/tok | 1800/8501 MHz
+
+Finished in 17.9 minutes. Idle power at the end: 17.2 W (at the start: 16.2 W).
+Clocks returned to default.
+
+====================================================================================================
+Llama-3.2-3B-Instruct-Q8_0  |  NVIDIA GeForce RTX 4060 Laptop GPU
+====================================================================================================
+
+Default clocks (the driver chooses)
+  test             ms/token      tok/s   power W   mJ/token  core MHz   mem MHz
+  prefill 32         0.5291     1889.9      91.8     48.570      2640      8501
+  prefill 64         0.3002     3330.8     103.2     31.000      2640      8501
+  prefill 128        0.1939     5156.2     112.9     21.893      2640      8501
+  prefill 256        0.1651     6058.7     117.4     19.375      2625      8501
+  prefill 512        0.1607     6224.6     110.7     17.789      2632      8501
+  prefill 1024       0.1625     6153.4     114.9     18.669      2580      8501
+  prefill 2048       0.1696     5897.0     109.7     18.609      2580      8501
+  decode d0         14.0036       71.4      89.2   1249.259      2640      8501
+  decode d512       14.3268       69.8      89.3   1280.009      2640      8501
+  decode d1024      14.5685       68.6      88.6   1291.100      2640      8501
+  decode d2048      15.0412       66.5      83.1   1249.550      2535      8501
+  decode d4096      15.8867       63.0      82.1   1304.629      2550      8501
+
+Time per token (ms). Rows: core clock lock (MHz). Columns: memory clock lock (MHz). 'auto' = driver default.
+  prefill 128          6001       7001       auto
+             600          -          -     0.6474
+             900          -          -     0.4561
+            1200          -          -     0.3468
+            1500          -          -     0.2860
+            1800          -          -     0.2472
+            2100          -          -     0.2217
+            2400          -          -     0.2039
+            auto     0.2454     0.2191     0.1950
+  prefill 1024         6001       7001       auto
+             600          -          -     0.6001
+             900          -          -     0.4127
+            1200          -          -     0.3126
+            1500          -          -     0.2554
+            1800          -          -     0.2182
+            2100          -          -     0.1921
+            2400          -          -     0.1729
+            auto     0.1794     0.1697     0.1641
+  decode d0            6001       7001       auto
+             600          -          -    22.6856
+             900          -          -    19.7206
+            1200          -          -    15.2135
+            1500          -          -    14.5960
+            1800          -          -    14.3625
+            2100          -          -    14.2757
+            2400          -          -    14.1575
+            auto    19.6929    16.9748    14.0684
+  decode d1024         6001       7001       auto
+             600          -          -    23.8933
+             900          -          -    20.5319
+            1200          -          -    15.8144
+            1500          -          -    15.2336
+            1800          -          -    14.8698
+            2100          -          -    14.7137
+            2400          -          -    14.6112
+            auto    20.4085    17.5331    14.5721
+
+Power (W). Rows: core clock lock (MHz). Columns: memory clock lock (MHz). 'auto' = driver default.
+  prefill 128          6001       7001       auto
+             600          -          -       28.5
+             900          -          -       34.5
+            1200          -          -       39.1
+            1500          -          -       47.3
+            1800          -          -       58.6
+            2100          -          -       70.9
+            2400          -          -       91.1
+            auto       88.4       97.1      112.4
+  prefill 1024         6001       7001       auto
+             600          -          -       24.3
+             900          -          -       29.6
+            1200          -          -       34.2
+            1500          -          -       41.7
+            1800          -          -       53.2
+            2100          -          -       65.5
+            2400          -          -       88.0
+            auto      100.6      105.7      108.7
+  decode d0            6001       7001       auto
+             600          -          -       40.0
+             900          -          -       42.2
+            1200          -          -       46.7
+            1500          -          -       51.1
+            1800          -          -       57.3
+            2100          -          -       63.5
+            2400          -          -       75.3
+            auto       63.4       70.3       86.8
+  decode d1024         6001       7001       auto
+             600          -          -       39.7
+             900          -          -       41.9
+            1200          -          -       46.3
+            1500          -          -       50.5
+            1800          -          -       57.6
+            2100          -          -       63.7
+            2400          -          -       75.1
+            auto       63.0       70.5       84.1
+
+Energy per token (mJ). Rows: core clock lock (MHz). Columns: memory clock lock (MHz). 'auto' = driver default.
+  prefill 128          6001       7001       auto
+             600          -          -     18.463
+             900          -          -     15.729
+            1200          -          -     13.569
+            1500          -          -     13.533
+            1800          -          -     14.487
+            2100          -          -     15.720
+            2400          -          -     18.572
+            auto     21.687     21.285     21.918
+  prefill 1024         6001       7001       auto
+             600          -          -     14.585
+             900          -          -     12.210
+            1200          -          -     10.676
+            1500          -          -     10.649
+            1800          -          -     11.604
+            2100          -          -     12.588
+            2400          -          -     15.206
+            auto     18.047     17.939     17.828
+  decode d0            6001       7001       auto
+             600          -          -    907.052
+             900          -          -    831.881
+            1200          -          -    710.354
+            1500          -          -    745.726
+            1800          -          -    822.505
+            2100          -          -    906.689
+            2400          -          -   1066.800
+            auto   1248.807   1194.181   1221.127
+  decode d1024         6001       7001       auto
+             600          -          -    947.711
+             900          -          -    860.398
+            1200          -          -    732.483
+            1500          -          -    768.688
+            1800          -          -    856.320
+            2100          -          -    936.718
+            2400          -          -   1097.972
+            auto   1286.058   1236.235   1225.706
+
+Which clock does each phase follow?  (1 = the time follows this clock fully, 0 = no effect)
+  test             core clock   memory clock
+  prefill 128            0.83           0.66
+  prefill 1024           0.89           0.25
+  decode d0              0.33           0.97
+  decode d1024           0.35           0.97
+
+Energy per token against default clocks: the best setting that costs at most 5% more time,
+and the best setting when time does not matter
+  prefill 128    same speed : core 2400  mem auto   energy  -15.3%  time   +4.6%
+  prefill 128    any speed  : core 1500  mem auto   energy  -38.3%  time  +46.6%
+  prefill 1024   same speed : core auto  mem auto   energy   +0.0%  time   +0.0%
+  prefill 1024   any speed  : core 1500  mem auto   energy  -40.3%  time  +55.6%
+  decode d0      same speed : core 1500  mem auto   energy  -38.9%  time   +3.8%
+  decode d0      any speed  : core 1200  mem auto   energy  -41.8%  time   +8.1%
+  decode d1024   same speed : core 1500  mem auto   energy  -37.3%  time   +4.5%
+  decode d1024   any speed  : core 1200  mem auto   energy  -40.2%  time   +8.5%
+
+Please send this file:  D:\codeFiles\PycharmProjects\PACE_hw_validation\results\pace_hw_Llama-3.2-3B-Instruct-Q8_0_20261009_0021.zip

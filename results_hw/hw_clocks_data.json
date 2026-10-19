@@ -1,0 +1,404 @@
+{
+ "1B": {
+  "prefill": [
+   {
+    "lock": 600,
+    "core_MHz": 600,
+    "time_rel": 3.5063859981078522,
+    "energy_rel": 0.7913937559016172,
+    "ms_per_token": 0.222375,
+    "mJ_per_token": 5.2801
+   },
+   {
+    "lock": 900,
+    "core_MHz": 900,
+    "time_rel": 2.4391359192683693,
+    "energy_rel": 0.6524303421813876,
+    "ms_per_token": 0.15469,
+    "mJ_per_token": 4.35295
+   },
+   {
+    "lock": 1200,
+    "core_MHz": 1200,
+    "time_rel": 1.8599810785241249,
+    "energy_rel": 0.5672072423147829,
+    "ms_per_token": 0.11796000000000001,
+    "mJ_per_token": 3.78435
+   },
+   {
+    "lock": 1500,
+    "core_MHz": 1500,
+    "time_rel": 1.5276726584673603,
+    "energy_rel": 0.5757355475951378,
+    "ms_per_token": 0.096885,
+    "mJ_per_token": 3.84125
+   },
+   {
+    "lock": 1800,
+    "core_MHz": 1800,
+    "time_rel": 1.3162251655629138,
+    "energy_rel": 0.631192014268799,
+    "ms_per_token": 0.083475,
+    "mJ_per_token": 4.21125
+   },
+   {
+    "lock": 2100,
+    "core_MHz": 2100,
+    "time_rel": 1.1695048880479344,
+    "energy_rel": 0.6997781741333053,
+    "ms_per_token": 0.07417,
+    "mJ_per_token": 4.66885
+   },
+   {
+    "lock": 2400,
+    "core_MHz": 2400,
+    "time_rel": 1.0592872910753706,
+    "energy_rel": 0.8313149177895353,
+    "ms_per_token": 0.06718,
+    "mJ_per_token": 5.54645
+   },
+   {
+    "lock": 0,
+    "core_MHz": 2618,
+    "time_rel": 1.0,
+    "energy_rel": 1.0,
+    "ms_per_token": 0.06342,
+    "mJ_per_token": 6.6719
+   }
+  ],
+  "decode": [
+   {
+    "lock": 600,
+    "core_MHz": 600,
+    "time_rel": 1.7559671353007416,
+    "energy_rel": 0.7371048150945723,
+    "ms_per_token": 9.99572,
+    "mJ_per_token": 372.8728
+   },
+   {
+    "lock": 900,
+    "core_MHz": 900,
+    "time_rel": 1.4549252252552956,
+    "energy_rel": 0.6566152619304936,
+    "ms_per_token": 8.282060000000001,
+    "mJ_per_token": 332.15625
+   },
+   {
+    "lock": 1200,
+    "core_MHz": 1200,
+    "time_rel": 1.1281851511568872,
+    "energy_rel": 0.5619059018746838,
+    "ms_per_token": 6.422115,
+    "mJ_per_token": 284.24645
+   },
+   {
+    "lock": 1500,
+    "core_MHz": 1500,
+    "time_rel": 1.0542817390815522,
+    "energy_rel": 0.583922213460488,
+    "ms_per_token": 6.001425,
+    "mJ_per_token": 295.38365
+   },
+   {
+    "lock": 1800,
+    "core_MHz": 1800,
+    "time_rel": 1.022589649762931,
+    "energy_rel": 0.6427904249643133,
+    "ms_per_token": 5.821020000000001,
+    "mJ_per_token": 325.1628
+   },
+   {
+    "lock": 2100,
+    "core_MHz": 2100,
+    "time_rel": 1.008369887728088,
+    "energy_rel": 0.7131111828479467,
+    "ms_per_token": 5.740075,
+    "mJ_per_token": 360.73535000000004
+   },
+   {
+    "lock": 2400,
+    "core_MHz": 2400,
+    "time_rel": 1.0104041683428693,
+    "energy_rel": 0.8352213343855323,
+    "ms_per_token": 5.7516549999999995,
+    "mJ_per_token": 422.50615000000005
+   },
+   {
+    "lock": 0,
+    "core_MHz": 2640,
+    "time_rel": 1.0,
+    "energy_rel": 1.0,
+    "ms_per_token": 5.69243,
+    "mJ_per_token": 505.8613
+   }
+  ]
+ },
+ "3B": {
+  "prefill": [
+   {
+    "lock": 600,
+    "core_MHz": 600,
+    "time_rel": 3.6570793089790077,
+    "energy_rel": 0.8181285303207929,
+    "ms_per_token": 0.600145,
+    "mJ_per_token": 14.58535
+   },
+   {
+    "lock": 900,
+    "core_MHz": 900,
+    "time_rel": 2.5151275098260264,
+    "energy_rel": 0.6848752222664729,
+    "ms_per_token": 0.41274500000000003,
+    "mJ_per_token": 12.20975
+   },
+   {
+    "lock": 1200,
+    "core_MHz": 1200,
+    "time_rel": 1.9046951646811494,
+    "energy_rel": 0.5988573960746478,
+    "ms_per_token": 0.31257,
+    "mJ_per_token": 10.67625
+   },
+   {
+    "lock": 1500,
+    "core_MHz": 1500,
+    "time_rel": 1.5561378385789586,
+    "energy_rel": 0.5973148527291798,
+    "ms_per_token": 0.25537,
+    "mJ_per_token": 10.64875
+   },
+   {
+    "lock": 1800,
+    "core_MHz": 1800,
+    "time_rel": 1.3293927668261174,
+    "energy_rel": 0.6509112224235319,
+    "ms_per_token": 0.21816,
+    "mJ_per_token": 11.60425
+   },
+   {
+    "lock": 2100,
+    "core_MHz": 2100,
+    "time_rel": 1.170683403918223,
+    "energy_rel": 0.7060978140758483,
+    "ms_per_token": 0.19211499999999998,
+    "mJ_per_token": 12.5881
+   },
+   {
+    "lock": 2400,
+    "core_MHz": 2400,
+    "time_rel": 1.0532890527406233,
+    "energy_rel": 0.8529142850732288,
+    "ms_per_token": 0.17285,
+    "mJ_per_token": 15.2055
+   },
+   {
+    "lock": 0,
+    "core_MHz": 2572,
+    "time_rel": 1.0,
+    "energy_rel": 1.0,
+    "ms_per_token": 0.164105,
+    "mJ_per_token": 17.8277
+   }
+  ],
+  "decode": [
+   {
+    "lock": 600,
+    "core_MHz": 600,
+    "time_rel": 1.6125193873938937,
+    "energy_rel": 0.7427994572553365,
+    "ms_per_token": 22.6856,
+    "mJ_per_token": 907.05225
+   },
+   {
+    "lock": 900,
+    "core_MHz": 900,
+    "time_rel": 1.4017657988601422,
+    "energy_rel": 0.6812404069127308,
+    "ms_per_token": 19.72063,
+    "mJ_per_token": 831.88085
+   },
+   {
+    "lock": 1200,
+    "core_MHz": 1200,
+    "time_rel": 1.0813932907888733,
+    "energy_rel": 0.5817204308119708,
+    "ms_per_token": 15.213495,
+    "mJ_per_token": 710.3543500000001
+   },
+   {
+    "lock": 1500,
+    "core_MHz": 1500,
+    "time_rel": 1.0375038561544223,
+    "energy_rel": 0.6106869582001606,
+    "ms_per_token": 14.596039999999999,
+    "mJ_per_token": 745.72615
+   },
+   {
+    "lock": 1800,
+    "core_MHz": 1800,
+    "time_rel": 1.0209014231875364,
+    "energy_rel": 0.67356200630123,
+    "ms_per_token": 14.36247,
+    "mJ_per_token": 822.50455
+   },
+   {
+    "lock": 2100,
+    "core_MHz": 2100,
+    "time_rel": 1.0147305098937904,
+    "energy_rel": 0.7425021908046071,
+    "ms_per_token": 14.275655,
+    "mJ_per_token": 906.68925
+   },
+   {
+    "lock": 2400,
+    "core_MHz": 2400,
+    "time_rel": 1.0063322675893953,
+    "energy_rel": 0.8736192567077603,
+    "ms_per_token": 14.157505,
+    "mJ_per_token": 1066.7998
+   },
+   {
+    "lock": 0,
+    "core_MHz": 2595,
+    "time_rel": 1.0,
+    "energy_rel": 1.0,
+    "ms_per_token": 14.06842,
+    "mJ_per_token": 1221.1266999999998
+   }
+  ]
+ },
+ "8B": {
+  "prefill": [
+   {
+    "lock": 600,
+    "core_MHz": 600,
+    "time_rel": 3.6366236046657465,
+    "energy_rel": 0.8442984247633591,
+    "ms_per_token": 1.4497399999999998,
+    "mJ_per_token": 35.6562
+   },
+   {
+    "lock": 900,
+    "core_MHz": 900,
+    "time_rel": 2.4887369873322465,
+    "energy_rel": 0.6923286389979103,
+    "ms_per_token": 0.992135,
+    "mJ_per_token": 29.23825
+   },
+   {
+    "lock": 1200,
+    "core_MHz": 1200,
+    "time_rel": 1.8788661733350056,
+    "energy_rel": 0.5999763211327969,
+    "ms_per_token": 0.74901,
+    "mJ_per_token": 25.33805
+   },
+   {
+    "lock": 1500,
+    "core_MHz": 1500,
+    "time_rel": 1.5342154772356704,
+    "energy_rel": 0.6075133045635096,
+    "ms_per_token": 0.611615,
+    "mJ_per_token": 25.65635
+   },
+   {
+    "lock": 1800,
+    "core_MHz": 1800,
+    "time_rel": 1.3076633638530037,
+    "energy_rel": 0.6598826712130091,
+    "ms_per_token": 0.5213,
+    "mJ_per_token": 27.868000000000002
+   },
+   {
+    "lock": 2100,
+    "core_MHz": 2100,
+    "time_rel": 1.1501066098081023,
+    "energy_rel": 0.7289870772582239,
+    "ms_per_token": 0.45849,
+    "mJ_per_token": 30.7864
+   },
+   {
+    "lock": 2400,
+    "core_MHz": 2400,
+    "time_rel": 1.045428320581964,
+    "energy_rel": 0.8851515743486831,
+    "ms_per_token": 0.41676,
+    "mJ_per_token": 37.3815
+   },
+   {
+    "lock": 0,
+    "core_MHz": 2550,
+    "time_rel": 1.0,
+    "energy_rel": 1.0,
+    "ms_per_token": 0.39865,
+    "mJ_per_token": 42.231750000000005
+   }
+  ],
+  "decode": [
+   {
+    "lock": 600,
+    "core_MHz": 600,
+    "time_rel": 2.215614233390791,
+    "energy_rel": 0.8257182502058952,
+    "ms_per_token": 41.594435000000004,
+    "mJ_per_token": 1667.5666999999999
+   },
+   {
+    "lock": 900,
+    "core_MHz": 900,
+    "time_rel": 1.5607508421525869,
+    "energy_rel": 0.6659814345853668,
+    "ms_per_token": 29.300475,
+    "mJ_per_token": 1344.9726500000002
+   },
+   {
+    "lock": 1200,
+    "core_MHz": 1200,
+    "time_rel": 1.1888246191936216,
+    "energy_rel": 0.573492137236064,
+    "ms_per_token": 22.318185,
+    "mJ_per_token": 1158.1873
+   },
+   {
+    "lock": 1500,
+    "core_MHz": 1500,
+    "time_rel": 1.0547463101891408,
+    "energy_rel": 0.5750651480495694,
+    "ms_per_token": 19.80109,
+    "mJ_per_token": 1161.3640500000001
+   },
+   {
+    "lock": 1800,
+    "core_MHz": 1800,
+    "time_rel": 1.0248179331093277,
+    "energy_rel": 0.6350108855517342,
+    "ms_per_token": 19.239235,
+    "mJ_per_token": 1282.4265500000001
+   },
+   {
+    "lock": 2100,
+    "core_MHz": 2100,
+    "time_rel": 1.008980830242067,
+    "energy_rel": 0.712329683854165,
+    "ms_per_token": 18.94192,
+    "mJ_per_token": 1438.5745499999998
+   },
+   {
+    "lock": 2400,
+    "core_MHz": 2400,
+    "time_rel": 1.0052609234807695,
+    "energy_rel": 0.8485407839602662,
+    "ms_per_token": 18.872085,
+    "mJ_per_token": 1713.6576
+   },
+   {
+    "lock": 0,
+    "core_MHz": 2625,
+    "time_rel": 1.0,
+    "energy_rel": 1.0,
+    "ms_per_token": 18.77332,
+    "mJ_per_token": 2019.5347499999998
+   }
+  ]
+ }
+}

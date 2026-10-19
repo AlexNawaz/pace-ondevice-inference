@@ -1,0 +1,1018 @@
+
+First run: the files that are still missing are downloaded now. This happens only once.
+An interrupted download continues where it stopped when you run main.py again.
+
+Model Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf: 4.92 GB (one time)
+  Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf from www.modelscope.cn
+    26 MB of 4.92 GB (0%), 2.9 MB/s, about 29 min left
+    27 MB of 4.92 GB (0%), 1.7 MB/s, about 50 min left
+    28 MB of 4.92 GB (0%), 1.2 MB/s, about 71 min left
+    29 MB of 4.92 GB (0%), 0.9 MB/s, about 90 min left
+    43 MB of 4.92 GB (0%), 1.0 MB/s, about 79 min left
+    44 MB of 4.92 GB (0%), 0.9 MB/s, about 90 min left
+    45 MB of 4.92 GB (0%), 0.8 MB/s, about 98 min left
+    46 MB of 4.92 GB (0%), 0.8 MB/s, about 107 min left
+    51 MB of 4.92 GB (1%), 0.8 MB/s, about 106 min left
+    52 MB of 4.92 GB (1%), 0.7 MB/s, about 114 min left
+    53 MB of 4.92 GB (1%), 0.7 MB/s, about 119 min left
+    55 MB of 4.92 GB (1%), 0.7 MB/s, about 125 min left
+    72 MB of 4.92 GB (1%), 0.8 MB/s, about 101 min left
+    73 MB of 4.92 GB (1%), 0.8 MB/s, about 108 min left
+    74 MB of 4.92 GB (1%), 0.7 MB/s, about 115 min left
+    75 MB of 4.92 GB (1%), 0.7 MB/s, about 118 min left
+    81 MB of 4.92 GB (1%), 0.7 MB/s, about 118 min left
+    82 MB of 4.92 GB (1%), 0.7 MB/s, about 124 min left
+    83 MB of 4.92 GB (1%), 0.6 MB/s, about 129 min left
+    84 MB of 4.92 GB (1%), 0.6 MB/s, about 134 min left
+    98 MB of 4.92 GB (1%), 0.7 MB/s, about 122 min left
+    99 MB of 4.92 GB (2%), 0.6 MB/s, about 127 min left
+    100 MB of 4.92 GB (2%), 0.6 MB/s, about 131 min left
+    101 MB of 4.92 GB (2%), 0.6 MB/s, about 134 min left
+    123 MB of 4.92 GB (2%), 0.7 MB/s, about 116 min left
+    124 MB of 4.92 GB (2%), 0.7 MB/s, about 119 min left
+    125 MB of 4.92 GB (2%), 0.7 MB/s, about 121 min left
+    126 MB of 4.92 GB (2%), 0.6 MB/s, about 124 min left
+    131 MB of 4.92 GB (2%), 0.6 MB/s, about 123 min left
+    132 MB of 4.92 GB (2%), 0.6 MB/s, about 126 min left
+    133 MB of 4.92 GB (2%), 0.6 MB/s, about 129 min left
+    134 MB of 4.92 GB (2%), 0.6 MB/s, about 132 min left
+    139 MB of 4.92 GB (2%), 0.6 MB/s, about 131 min left
+    141 MB of 4.92 GB (2%), 0.6 MB/s, about 134 min left
+    142 MB of 4.92 GB (2%), 0.6 MB/s, about 137 min left
+    143 MB of 4.92 GB (2%), 0.6 MB/s, about 139 min left
+    152 MB of 4.92 GB (3%), 0.6 MB/s, about 134 min left
+    153 MB of 4.92 GB (3%), 0.6 MB/s, about 137 min left
+    154 MB of 4.92 GB (3%), 0.6 MB/s, about 139 min left
+    155 MB of 4.92 GB (3%), 0.6 MB/s, about 142 min left
+    191 MB of 4.92 GB (3%), 0.7 MB/s, about 117 min left
+    223 MB of 4.92 GB (4%), 0.8 MB/s, about 103 min left
+    224 MB of 4.92 GB (4%), 0.8 MB/s, about 105 min left
+    225 MB of 4.92 GB (4%), 0.7 MB/s, about 107 min left
+    226 MB of 4.92 GB (4%), 0.7 MB/s, about 109 min left
+    232 MB of 4.92 GB (4%), 0.7 MB/s, about 108 min left
+    233 MB of 4.92 GB (4%), 0.7 MB/s, about 110 min left
+    234 MB of 4.92 GB (4%), 0.7 MB/s, about 112 min left
+    235 MB of 4.92 GB (4%), 0.7 MB/s, about 113 min left
+    244 MB of 4.92 GB (4%), 0.7 MB/s, about 112 min left
+    245 MB of 4.92 GB (4%), 0.7 MB/s, about 113 min left
+    246 MB of 4.92 GB (5%), 0.7 MB/s, about 115 min left
+    247 MB of 4.92 GB (5%), 0.7 MB/s, about 116 min left
+    265 MB of 4.92 GB (5%), 0.7 MB/s, about 111 min left
+    266 MB of 4.92 GB (5%), 0.7 MB/s, about 112 min left
+    267 MB of 4.92 GB (5%), 0.7 MB/s, about 114 min left
+    268 MB of 4.92 GB (5%), 0.7 MB/s, about 115 min left
+    274 MB of 4.92 GB (5%), 0.7 MB/s, about 114 min left
+    275 MB of 4.92 GB (5%), 0.7 MB/s, about 116 min left
+    276 MB of 4.92 GB (5%), 0.7 MB/s, about 117 min left
+    277 MB of 4.92 GB (5%), 0.7 MB/s, about 118 min left
+    286 MB of 4.92 GB (5%), 0.7 MB/s, about 116 min left
+    287 MB of 4.92 GB (5%), 0.7 MB/s, about 117 min left
+    288 MB of 4.92 GB (5%), 0.7 MB/s, about 118 min left
+    289 MB of 4.92 GB (5%), 0.6 MB/s, about 120 min left
+    295 MB of 4.92 GB (5%), 0.6 MB/s, about 119 min left
+    296 MB of 4.92 GB (6%), 0.6 MB/s, about 120 min left
+    297 MB of 4.92 GB (6%), 0.6 MB/s, about 122 min left
+    298 MB of 4.92 GB (6%), 0.6 MB/s, about 123 min left
+    303 MB of 4.92 GB (6%), 0.6 MB/s, about 122 min left
+    304 MB of 4.92 GB (6%), 0.6 MB/s, about 123 min left
+    305 MB of 4.92 GB (6%), 0.6 MB/s, about 125 min left
+    306 MB of 4.92 GB (6%), 0.6 MB/s, about 126 min left
+    307 MB of 4.92 GB (6%), 0.6 MB/s, about 127 min left
+    308 MB of 4.92 GB (6%), 0.6 MB/s, about 128 min left
+    309 MB of 4.92 GB (6%), 0.6 MB/s, about 129 min left
+    310 MB of 4.92 GB (6%), 0.6 MB/s, about 131 min left
+    316 MB of 4.92 GB (6%), 0.6 MB/s, about 130 min left
+    317 MB of 4.92 GB (6%), 0.6 MB/s, about 131 min left
+    318 MB of 4.92 GB (6%), 0.6 MB/s, about 132 min left
+    319 MB of 4.92 GB (6%), 0.6 MB/s, about 133 min left
+    320 MB of 4.92 GB (6%), 0.6 MB/s, about 134 min left
+    321 MB of 4.92 GB (6%), 0.6 MB/s, about 135 min left
+    322 MB of 4.92 GB (6%), 0.6 MB/s, about 136 min left
+    323 MB of 4.92 GB (6%), 0.6 MB/s, about 137 min left
+    324 MB of 4.92 GB (6%), 0.6 MB/s, about 138 min left
+    325 MB of 4.92 GB (6%), 0.6 MB/s, about 139 min left
+    326 MB of 4.92 GB (6%), 0.5 MB/s, about 140 min left
+    327 MB of 4.92 GB (6%), 0.5 MB/s, about 141 min left
+    337 MB of 4.92 GB (6%), 0.6 MB/s, about 138 min left
+    338 MB of 4.92 GB (6%), 0.6 MB/s, about 139 min left
+    339 MB of 4.92 GB (6%), 0.5 MB/s, about 140 min left
+    340 MB of 4.92 GB (6%), 0.5 MB/s, about 141 min left
+    341 MB of 4.92 GB (6%), 0.5 MB/s, about 141 min left
+    342 MB of 4.92 GB (6%), 0.5 MB/s, about 143 min left
+    343 MB of 4.92 GB (6%), 0.5 MB/s, about 144 min left
+    344 MB of 4.92 GB (6%), 0.5 MB/s, about 145 min left
+    345 MB of 4.92 GB (7%), 0.5 MB/s, about 146 min left
+    346 MB of 4.92 GB (7%), 0.5 MB/s, about 147 min left
+    347 MB of 4.92 GB (7%), 0.5 MB/s, about 148 min left
+    348 MB of 4.92 GB (7%), 0.5 MB/s, about 148 min left
+    349 MB of 4.92 GB (7%), 0.5 MB/s, about 149 min left
+    350 MB of 4.92 GB (7%), 0.5 MB/s, about 149 min left
+    351 MB of 4.92 GB (7%), 0.5 MB/s, about 150 min left
+    352 MB of 4.92 GB (7%), 0.5 MB/s, about 151 min left
+    353 MB of 4.92 GB (7%), 0.5 MB/s, about 151 min left
+    354 MB of 4.92 GB (7%), 0.5 MB/s, about 152 min left
+    355 MB of 4.92 GB (7%), 0.5 MB/s, about 153 min left
+    357 MB of 4.92 GB (7%), 0.5 MB/s, about 154 min left
+    362 MB of 4.92 GB (7%), 0.5 MB/s, about 153 min left
+    363 MB of 4.92 GB (7%), 0.5 MB/s, about 154 min left
+    364 MB of 4.92 GB (7%), 0.5 MB/s, about 155 min left
+    365 MB of 4.92 GB (7%), 0.5 MB/s, about 156 min left
+    366 MB of 4.92 GB (7%), 0.5 MB/s, about 156 min left
+    367 MB of 4.92 GB (7%), 0.5 MB/s, about 157 min left
+    368 MB of 4.92 GB (7%), 0.5 MB/s, about 158 min left
+    369 MB of 4.92 GB (7%), 0.5 MB/s, about 159 min left
+    395 MB of 4.92 GB (8%), 0.5 MB/s, about 149 min left
+    396 MB of 4.92 GB (8%), 0.5 MB/s, about 150 min left
+    397 MB of 4.92 GB (8%), 0.5 MB/s, about 151 min left
+    398 MB of 4.92 GB (8%), 0.5 MB/s, about 152 min left
+    416 MB of 4.92 GB (8%), 0.5 MB/s, about 146 min left
+    417 MB of 4.92 GB (8%), 0.5 MB/s, about 147 min left
+    418 MB of 4.92 GB (8%), 0.5 MB/s, about 147 min left
+    419 MB of 4.92 GB (8%), 0.5 MB/s, about 148 min left
+    441 MB of 4.92 GB (8%), 0.5 MB/s, about 141 min left
+    442 MB of 4.92 GB (8%), 0.5 MB/s, about 142 min left
+    444 MB of 4.92 GB (9%), 0.5 MB/s, about 142 min left
+    445 MB of 4.92 GB (9%), 0.5 MB/s, about 143 min left
+    467 MB of 4.92 GB (9%), 0.5 MB/s, about 137 min left
+    468 MB of 4.92 GB (9%), 0.5 MB/s, about 137 min left
+    469 MB of 4.92 GB (9%), 0.5 MB/s, about 138 min left
+    470 MB of 4.92 GB (9%), 0.5 MB/s, about 139 min left
+    518 MB of 4.92 GB (10%), 0.6 MB/s, about 125 min left
+    565 MB of 4.92 GB (11%), 0.6 MB/s, about 114 min left
+    613 MB of 4.92 GB (12%), 0.7 MB/s, about 105 min left
+    662 MB of 4.92 GB (13%), 0.7 MB/s, about 96 min left
+    710 MB of 4.92 GB (14%), 0.8 MB/s, about 89 min left
+    756 MB of 4.92 GB (15%), 0.8 MB/s, about 83 min left
+    804 MB of 4.92 GB (16%), 0.9 MB/s, about 78 min left
+    819 MB of 4.92 GB (16%), 0.9 MB/s, about 77 min left
+    820 MB of 4.92 GB (16%), 0.9 MB/s, about 77 min left
+    821 MB of 4.92 GB (16%), 0.9 MB/s, about 78 min left
+    822 MB of 4.92 GB (16%), 0.9 MB/s, about 78 min left
+    827 MB of 4.92 GB (16%), 0.9 MB/s, about 78 min left
+    828 MB of 4.92 GB (16%), 0.9 MB/s, about 78 min left
+    829 MB of 4.92 GB (16%), 0.9 MB/s, about 79 min left
+    830 MB of 4.92 GB (16%), 0.9 MB/s, about 79 min left
+    840 MB of 4.92 GB (17%), 0.9 MB/s, about 79 min left
+    841 MB of 4.92 GB (17%), 0.9 MB/s, about 79 min left
+    842 MB of 4.92 GB (17%), 0.9 MB/s, about 79 min left
+    843 MB of 4.92 GB (17%), 0.9 MB/s, about 80 min left
+    844 MB of 4.92 GB (17%), 0.9 MB/s, about 80 min left
+    845 MB of 4.92 GB (17%), 0.8 MB/s, about 81 min left
+    846 MB of 4.92 GB (17%), 0.8 MB/s, about 81 min left
+    847 MB of 4.92 GB (17%), 0.8 MB/s, about 82 min left
+    857 MB of 4.92 GB (17%), 0.8 MB/s, about 81 min left
+    858 MB of 4.92 GB (17%), 0.8 MB/s, about 81 min left
+    859 MB of 4.92 GB (17%), 0.8 MB/s, about 82 min left
+    860 MB of 4.92 GB (17%), 0.8 MB/s, about 82 min left
+    869 MB of 4.92 GB (17%), 0.8 MB/s, about 82 min left
+    870 MB of 4.92 GB (17%), 0.8 MB/s, about 82 min left
+    871 MB of 4.92 GB (17%), 0.8 MB/s, about 82 min left
+    872 MB of 4.92 GB (17%), 0.8 MB/s, about 83 min left
+    899 MB of 4.92 GB (18%), 0.8 MB/s, about 80 min left
+    900 MB of 4.92 GB (18%), 0.8 MB/s, about 81 min left
+    901 MB of 4.92 GB (18%), 0.8 MB/s, about 81 min left
+    902 MB of 4.92 GB (18%), 0.8 MB/s, about 81 min left
+    907 MB of 4.92 GB (18%), 0.8 MB/s, about 81 min left
+    908 MB of 4.92 GB (18%), 0.8 MB/s, about 81 min left
+    909 MB of 4.92 GB (18%), 0.8 MB/s, about 82 min left
+    910 MB of 4.92 GB (18%), 0.8 MB/s, about 82 min left
+    928 MB of 4.92 GB (18%), 0.8 MB/s, about 81 min left
+    929 MB of 4.92 GB (18%), 0.8 MB/s, about 81 min left
+    930 MB of 4.92 GB (18%), 0.8 MB/s, about 81 min left
+    931 MB of 4.92 GB (18%), 0.8 MB/s, about 82 min left
+    936 MB of 4.92 GB (19%), 0.8 MB/s, about 82 min left
+    937 MB of 4.92 GB (19%), 0.8 MB/s, about 82 min left
+    938 MB of 4.92 GB (19%), 0.8 MB/s, about 82 min left
+    940 MB of 4.92 GB (19%), 0.8 MB/s, about 83 min left
+    957 MB of 4.92 GB (19%), 0.8 MB/s, about 81 min left
+    958 MB of 4.92 GB (19%), 0.8 MB/s, about 82 min left
+    959 MB of 4.92 GB (19%), 0.8 MB/s, about 82 min left
+    960 MB of 4.92 GB (19%), 0.8 MB/s, about 82 min left
+    962 MB of 4.92 GB (19%), 0.8 MB/s, about 83 min left
+    963 MB of 4.92 GB (19%), 0.8 MB/s, about 83 min left
+    964 MB of 4.92 GB (19%), 0.8 MB/s, about 83 min left
+    965 MB of 4.92 GB (19%), 0.8 MB/s, about 84 min left
+    970 MB of 4.92 GB (19%), 0.8 MB/s, about 84 min left
+    971 MB of 4.92 GB (19%), 0.8 MB/s, about 84 min left
+    972 MB of 4.92 GB (19%), 0.8 MB/s, about 84 min left
+    973 MB of 4.92 GB (19%), 0.8 MB/s, about 84 min left
+    987 MB of 4.92 GB (20%), 0.8 MB/s, about 84 min left
+    988 MB of 4.92 GB (20%), 0.8 MB/s, about 84 min left
+    989 MB of 4.92 GB (20%), 0.8 MB/s, about 84 min left
+    990 MB of 4.92 GB (20%), 0.8 MB/s, about 84 min left
+    995 MB of 4.92 GB (20%), 0.8 MB/s, about 84 min left
+    996 MB of 4.92 GB (20%), 0.8 MB/s, about 84 min left
+    997 MB of 4.92 GB (20%), 0.8 MB/s, about 85 min left
+    998 MB of 4.92 GB (20%), 0.8 MB/s, about 85 min left
+    1.00 GB of 4.92 GB (20%), 0.8 MB/s, about 85 min left
+    1.00 GB of 4.92 GB (20%), 0.8 MB/s, about 85 min left
+    1.01 GB of 4.92 GB (20%), 0.8 MB/s, about 85 min left
+    1.01 GB of 4.92 GB (20%), 0.8 MB/s, about 86 min left
+    1.01 GB of 4.92 GB (20%), 0.8 MB/s, about 85 min left
+    1.01 GB of 4.92 GB (20%), 0.8 MB/s, about 86 min left
+    1.01 GB of 4.92 GB (20%), 0.8 MB/s, about 86 min left
+    1.02 GB of 4.92 GB (20%), 0.8 MB/s, about 86 min left
+    1.02 GB of 4.92 GB (20%), 0.8 MB/s, about 86 min left
+    1.02 GB of 4.92 GB (20%), 0.8 MB/s, about 87 min left
+    1.02 GB of 4.92 GB (20%), 0.8 MB/s, about 87 min left
+    1.02 GB of 4.92 GB (20%), 0.8 MB/s, about 87 min left
+    1.04 GB of 4.92 GB (21%), 0.8 MB/s, about 86 min left
+    1.04 GB of 4.92 GB (21%), 0.8 MB/s, about 86 min left
+    1.04 GB of 4.92 GB (21%), 0.7 MB/s, about 87 min left
+    1.04 GB of 4.92 GB (21%), 0.7 MB/s, about 87 min left
+    1.09 GB of 4.92 GB (22%), 0.8 MB/s, about 83 min left
+    1.10 GB of 4.92 GB (22%), 0.8 MB/s, about 81 min left
+    1.11 GB of 4.92 GB (22%), 0.8 MB/s, about 82 min left
+    1.11 GB of 4.92 GB (22%), 0.8 MB/s, about 82 min left
+    1.11 GB of 4.92 GB (22%), 0.8 MB/s, about 82 min left
+    1.11 GB of 4.92 GB (22%), 0.8 MB/s, about 82 min left
+    1.11 GB of 4.92 GB (22%), 0.8 MB/s, about 82 min left
+    1.11 GB of 4.92 GB (22%), 0.8 MB/s, about 83 min left
+    1.12 GB of 4.92 GB (22%), 0.8 MB/s, about 83 min left
+    1.12 GB of 4.92 GB (22%), 0.8 MB/s, about 83 min left
+    1.12 GB of 4.92 GB (22%), 0.8 MB/s, about 83 min left
+    1.12 GB of 4.92 GB (22%), 0.8 MB/s, about 83 min left
+    1.12 GB of 4.92 GB (22%), 0.8 MB/s, about 83 min left
+    1.14 GB of 4.92 GB (23%), 0.8 MB/s, about 82 min left
+    1.14 GB of 4.92 GB (23%), 0.8 MB/s, about 82 min left
+    1.14 GB of 4.92 GB (23%), 0.8 MB/s, about 83 min left
+    1.14 GB of 4.92 GB (23%), 0.8 MB/s, about 83 min left
+    1.14 GB of 4.92 GB (23%), 0.8 MB/s, about 83 min left
+    1.14 GB of 4.92 GB (23%), 0.8 MB/s, about 84 min left
+    1.14 GB of 4.92 GB (23%), 0.8 MB/s, about 84 min left
+    1.15 GB of 4.92 GB (23%), 0.8 MB/s, about 84 min left
+    1.19 GB of 4.92 GB (24%), 0.8 MB/s, about 80 min left
+    1.24 GB of 4.92 GB (25%), 0.8 MB/s, about 76 min left
+    1.29 GB of 4.92 GB (26%), 0.8 MB/s, about 73 min left
+    1.33 GB of 4.92 GB (27%), 0.9 MB/s, about 69 min left
+    1.38 GB of 4.92 GB (28%), 0.9 MB/s, about 66 min left
+    1.43 GB of 4.92 GB (29%), 0.9 MB/s, about 64 min left
+    1.48 GB of 4.92 GB (29%), 1.0 MB/s, about 61 min left
+    1.52 GB of 4.92 GB (30%), 1.0 MB/s, about 58 min left
+    1.57 GB of 4.92 GB (31%), 1.0 MB/s, about 56 min left
+    1.62 GB of 4.92 GB (32%), 1.0 MB/s, about 54 min left
+    1.67 GB of 4.92 GB (33%), 1.1 MB/s, about 52 min left
+    1.71 GB of 4.92 GB (34%), 1.1 MB/s, about 50 min left
+    1.75 GB of 4.92 GB (35%), 1.1 MB/s, about 48 min left
+    1.75 GB of 4.92 GB (35%), 1.1 MB/s, about 48 min left
+    1.75 GB of 4.92 GB (35%), 1.1 MB/s, about 48 min left
+    1.75 GB of 4.92 GB (35%), 1.1 MB/s, about 49 min left
+    1.80 GB of 4.92 GB (36%), 1.1 MB/s, about 47 min left
+    1.84 GB of 4.92 GB (37%), 1.1 MB/s, about 46 min left
+    1.84 GB of 4.92 GB (37%), 1.1 MB/s, about 46 min left
+    1.84 GB of 4.92 GB (37%), 1.1 MB/s, about 46 min left
+    1.84 GB of 4.92 GB (37%), 1.1 MB/s, about 46 min left
+    1.87 GB of 4.92 GB (37%), 1.1 MB/s, about 45 min left
+    1.87 GB of 4.92 GB (37%), 1.1 MB/s, about 45 min left
+    1.87 GB of 4.92 GB (37%), 1.1 MB/s, about 45 min left
+    1.87 GB of 4.92 GB (38%), 1.1 MB/s, about 45 min left
+    1.87 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.87 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.87 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.87 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.88 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.88 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.88 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.88 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.90 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.90 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.90 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.90 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.91 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.91 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.91 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.91 GB of 4.92 GB (38%), 1.1 MB/s, about 46 min left
+    1.92 GB of 4.92 GB (39%), 1.1 MB/s, about 46 min left
+    1.92 GB of 4.92 GB (39%), 1.1 MB/s, about 46 min left
+    1.92 GB of 4.92 GB (39%), 1.1 MB/s, about 47 min left
+    1.93 GB of 4.92 GB (39%), 1.1 MB/s, about 47 min left
+    1.97 GB of 4.92 GB (39%), 1.1 MB/s, about 45 min left
+    1.97 GB of 4.92 GB (40%), 1.1 MB/s, about 45 min left
+    1.97 GB of 4.92 GB (40%), 1.1 MB/s, about 45 min left
+    1.97 GB of 4.92 GB (40%), 1.1 MB/s, about 45 min left
+    1.98 GB of 4.92 GB (40%), 1.1 MB/s, about 45 min left
+    1.98 GB of 4.92 GB (40%), 1.1 MB/s, about 45 min left
+    1.98 GB of 4.92 GB (40%), 1.1 MB/s, about 46 min left
+    1.98 GB of 4.92 GB (40%), 1.1 MB/s, about 46 min left
+    1.98 GB of 4.92 GB (40%), 1.1 MB/s, about 46 min left
+    2.00 GB of 4.92 GB (40%), 1.1 MB/s, about 45 min left
+    2.00 GB of 4.92 GB (40%), 1.1 MB/s, about 46 min left
+    2.00 GB of 4.92 GB (40%), 1.1 MB/s, about 46 min left
+    2.04 GB of 4.92 GB (41%), 1.1 MB/s, about 44 min left
+    2.09 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.09 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.09 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.09 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.09 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.10 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.10 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.10 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.10 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.10 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.11 GB of 4.92 GB (42%), 1.1 MB/s, about 44 min left
+    2.11 GB of 4.92 GB (42%), 1.1 MB/s, about 43 min left
+    2.12 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.12 GB of 4.92 GB (43%), 1.1 MB/s, about 44 min left
+    2.12 GB of 4.92 GB (43%), 1.1 MB/s, about 44 min left
+    2.14 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.14 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.14 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.14 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.15 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.15 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.15 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.16 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.16 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.16 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.16 GB of 4.92 GB (43%), 1.1 MB/s, about 43 min left
+    2.17 GB of 4.92 GB (44%), 1.1 MB/s, about 43 min left
+    2.17 GB of 4.92 GB (44%), 1.1 MB/s, about 44 min left
+    2.17 GB of 4.92 GB (44%), 1.1 MB/s, about 44 min left
+    2.19 GB of 4.92 GB (44%), 1.1 MB/s, about 43 min left
+    2.19 GB of 4.92 GB (44%), 1.1 MB/s, about 43 min left
+    2.19 GB of 4.92 GB (44%), 1.1 MB/s, about 44 min left
+    2.19 GB of 4.92 GB (44%), 1.1 MB/s, about 44 min left
+    2.19 GB of 4.92 GB (44%), 1.1 MB/s, about 44 min left
+    2.20 GB of 4.92 GB (44%), 1.1 MB/s, about 44 min left
+    2.20 GB of 4.92 GB (44%), 1.1 MB/s, about 44 min left
+    2.20 GB of 4.92 GB (44%), 1.0 MB/s, about 44 min left
+    2.20 GB of 4.92 GB (44%), 1.0 MB/s, about 44 min left
+    2.20 GB of 4.92 GB (44%), 1.0 MB/s, about 44 min left
+    2.21 GB of 4.92 GB (44%), 1.0 MB/s, about 44 min left
+    2.21 GB of 4.92 GB (44%), 1.0 MB/s, about 44 min left
+    2.21 GB of 4.92 GB (44%), 1.0 MB/s, about 44 min left
+    2.21 GB of 4.92 GB (44%), 1.0 MB/s, about 44 min left
+    2.21 GB of 4.92 GB (44%), 1.0 MB/s, about 44 min left
+    2.21 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.23 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.23 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.23 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.24 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.24 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.24 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.24 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.24 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.25 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.25 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.25 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.25 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.26 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.26 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.26 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.26 GB of 4.92 GB (45%), 1.0 MB/s, about 44 min left
+    2.27 GB of 4.92 GB (46%), 1.0 MB/s, about 44 min left
+    2.27 GB of 4.92 GB (46%), 1.0 MB/s, about 44 min left
+    2.27 GB of 4.92 GB (46%), 1.0 MB/s, about 44 min left
+    2.27 GB of 4.92 GB (46%), 1.0 MB/s, about 44 min left
+    2.27 GB of 4.92 GB (46%), 1.0 MB/s, about 44 min left
+    2.28 GB of 4.92 GB (46%), 1.0 MB/s, about 44 min left
+    2.28 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.28 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.28 GB of 4.92 GB (46%), 1.0 MB/s, about 44 min left
+    2.28 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.28 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.29 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.29 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.29 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.29 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.29 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.31 GB of 4.92 GB (46%), 1.0 MB/s, about 44 min left
+    2.31 GB of 4.92 GB (46%), 1.0 MB/s, about 44 min left
+    2.31 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.31 GB of 4.92 GB (46%), 1.0 MB/s, about 45 min left
+    2.34 GB of 4.92 GB (47%), 1.0 MB/s, about 44 min left
+    2.34 GB of 4.92 GB (47%), 1.0 MB/s, about 44 min left
+    2.34 GB of 4.92 GB (47%), 1.0 MB/s, about 44 min left
+    2.34 GB of 4.92 GB (47%), 1.0 MB/s, about 44 min left
+    2.35 GB of 4.92 GB (47%), 1.0 MB/s, about 44 min left
+    2.35 GB of 4.92 GB (47%), 1.0 MB/s, about 44 min left
+    2.35 GB of 4.92 GB (47%), 1.0 MB/s, about 44 min left
+    2.35 GB of 4.92 GB (47%), 1.0 MB/s, about 44 min left
+    2.36 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.36 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.37 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.37 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.37 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.37 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.37 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.38 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.39 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.39 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.39 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.39 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.39 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.40 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.41 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.41 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.41 GB of 4.92 GB (48%), 1.0 MB/s, about 44 min left
+    2.44 GB of 4.92 GB (49%), 1.0 MB/s, about 43 min left
+    2.44 GB of 4.92 GB (49%), 1.0 MB/s, about 43 min left
+    2.44 GB of 4.92 GB (49%), 1.0 MB/s, about 43 min left
+    2.44 GB of 4.92 GB (49%), 1.0 MB/s, about 43 min left
+    2.45 GB of 4.92 GB (49%), 1.0 MB/s, about 43 min left
+    2.48 GB of 4.92 GB (50%), 1.0 MB/s, about 42 min left
+    2.52 GB of 4.92 GB (51%), 1.0 MB/s, about 41 min left
+    2.56 GB of 4.92 GB (52%), 1.0 MB/s, about 39 min left
+    2.58 GB of 4.92 GB (52%), 1.0 MB/s, about 39 min left
+    2.58 GB of 4.92 GB (52%), 1.0 MB/s, about 39 min left
+    2.58 GB of 4.92 GB (52%), 1.0 MB/s, about 39 min left
+    2.58 GB of 4.92 GB (52%), 1.0 MB/s, about 39 min left
+    2.58 GB of 4.92 GB (52%), 1.0 MB/s, about 39 min left
+    2.59 GB of 4.92 GB (52%), 1.0 MB/s, about 39 min left
+    2.59 GB of 4.92 GB (52%), 1.0 MB/s, about 39 min left
+    2.59 GB of 4.92 GB (52%), 1.0 MB/s, about 39 min left
+    2.63 GB of 4.92 GB (53%), 1.0 MB/s, about 38 min left
+    2.64 GB of 4.92 GB (53%), 1.0 MB/s, about 38 min left
+    2.64 GB of 4.92 GB (53%), 1.0 MB/s, about 38 min left
+    2.64 GB of 4.92 GB (53%), 1.0 MB/s, about 38 min left
+    2.65 GB of 4.92 GB (53%), 1.0 MB/s, about 38 min left
+    2.65 GB of 4.92 GB (53%), 1.0 MB/s, about 38 min left
+    2.65 GB of 4.92 GB (53%), 1.0 MB/s, about 38 min left
+    2.65 GB of 4.92 GB (53%), 1.0 MB/s, about 38 min left
+    2.66 GB of 4.92 GB (53%), 1.0 MB/s, about 38 min left
+    2.66 GB of 4.92 GB (53%), 1.0 MB/s, about 38 min left
+    2.66 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.66 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.66 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.67 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.67 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.67 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.67 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.67 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.67 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.68 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.68 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.68 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.68 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.69 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.69 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.70 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.70 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.70 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.70 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.70 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.71 GB of 4.92 GB (54%), 1.0 MB/s, about 38 min left
+    2.71 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.71 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.71 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.71 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.72 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.72 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.72 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.73 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.73 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.73 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.73 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.74 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.75 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.75 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.75 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.75 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.75 GB of 4.92 GB (55%), 1.0 MB/s, about 38 min left
+    2.76 GB of 4.92 GB (56%), 1.0 MB/s, about 38 min left
+    2.77 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.77 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.77 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.78 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.79 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.79 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.79 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.79 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.80 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.80 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.80 GB of 4.92 GB (56%), 1.0 MB/s, about 37 min left
+    2.81 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.81 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.81 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.81 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.82 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.82 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.82 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.82 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.82 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.82 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.83 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.83 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.83 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.83 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.83 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.84 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.84 GB of 4.92 GB (57%), 1.0 MB/s, about 37 min left
+    2.85 GB of 4.92 GB (57%), 0.9 MB/s, about 37 min left
+    2.85 GB of 4.92 GB (57%), 0.9 MB/s, about 37 min left
+    2.85 GB of 4.92 GB (57%), 0.9 MB/s, about 37 min left
+    2.85 GB of 4.92 GB (57%), 0.9 MB/s, about 37 min left
+    2.85 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.86 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.86 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.87 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.87 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.87 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.87 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.87 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.88 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.88 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.88 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.88 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.88 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.88 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.89 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.89 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.89 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.89 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.90 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.90 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.90 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.90 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.90 GB of 4.92 GB (58%), 0.9 MB/s, about 37 min left
+    2.91 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.91 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.91 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.91 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.92 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.92 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.92 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.92 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.93 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.93 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.93 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.93 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.94 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.94 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.94 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.95 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.95 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.95 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.95 GB of 4.92 GB (59%), 0.9 MB/s, about 37 min left
+    2.97 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.98 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.98 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.98 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.98 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.98 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.99 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.99 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.99 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.99 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.99 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    2.99 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    3.00 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    3.00 GB of 4.92 GB (60%), 0.9 MB/s, about 36 min left
+    3.00 GB of 4.92 GB (61%), 0.9 MB/s, about 36 min left
+    3.00 GB of 4.92 GB (61%), 0.9 MB/s, about 36 min left
+    3.01 GB of 4.92 GB (61%), 0.9 MB/s, about 36 min left
+    3.01 GB of 4.92 GB (61%), 0.9 MB/s, about 36 min left
+    3.01 GB of 4.92 GB (61%), 0.9 MB/s, about 36 min left
+    3.01 GB of 4.92 GB (61%), 0.9 MB/s, about 36 min left
+    3.02 GB of 4.92 GB (61%), 0.9 MB/s, about 36 min left
+    3.02 GB of 4.92 GB (61%), 0.9 MB/s, about 36 min left
+    3.02 GB of 4.92 GB (61%), 0.9 MB/s, about 36 min left
+    3.04 GB of 4.92 GB (61%), 0.9 MB/s, about 35 min left
+    3.04 GB of 4.92 GB (61%), 0.9 MB/s, about 35 min left
+    3.04 GB of 4.92 GB (61%), 0.9 MB/s, about 35 min left
+    3.05 GB of 4.92 GB (61%), 0.9 MB/s, about 35 min left
+    3.05 GB of 4.92 GB (62%), 0.9 MB/s, about 35 min left
+    3.06 GB of 4.92 GB (62%), 0.9 MB/s, about 35 min left
+    3.06 GB of 4.92 GB (62%), 0.9 MB/s, about 35 min left
+    3.06 GB of 4.92 GB (62%), 0.9 MB/s, about 35 min left
+    3.06 GB of 4.92 GB (62%), 0.9 MB/s, about 35 min left
+    3.06 GB of 4.92 GB (62%), 0.9 MB/s, about 35 min left
+    3.06 GB of 4.92 GB (62%), 0.9 MB/s, about 35 min left
+    3.07 GB of 4.92 GB (62%), 0.9 MB/s, about 35 min left
+    3.10 GB of 4.92 GB (62%), 0.9 MB/s, about 34 min left
+    3.10 GB of 4.92 GB (62%), 0.9 MB/s, about 34 min left
+    3.10 GB of 4.92 GB (62%), 0.9 MB/s, about 34 min left
+    3.10 GB of 4.92 GB (62%), 0.9 MB/s, about 34 min left
+    3.10 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.11 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.11 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.11 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.13 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.13 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.13 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.13 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.13 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.14 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.14 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.14 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.14 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.14 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.14 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.15 GB of 4.92 GB (63%), 0.9 MB/s, about 34 min left
+    3.16 GB of 4.92 GB (64%), 0.9 MB/s, about 34 min left
+    3.16 GB of 4.92 GB (64%), 0.9 MB/s, about 34 min left
+    3.16 GB of 4.92 GB (64%), 0.9 MB/s, about 34 min left
+    3.16 GB of 4.92 GB (64%), 0.9 MB/s, about 34 min left
+    3.21 GB of 4.92 GB (65%), 0.9 MB/s, about 32 min left
+    3.25 GB of 4.92 GB (66%), 0.9 MB/s, about 31 min left
+    3.30 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.31 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.31 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.31 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.31 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.32 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.32 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.32 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.32 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.33 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.33 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.33 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.33 GB of 4.92 GB (67%), 0.9 MB/s, about 30 min left
+    3.36 GB of 4.92 GB (68%), 0.9 MB/s, about 29 min left
+    3.37 GB of 4.92 GB (68%), 0.9 MB/s, about 29 min left
+    3.37 GB of 4.92 GB (68%), 0.9 MB/s, about 29 min left
+    3.37 GB of 4.92 GB (68%), 0.9 MB/s, about 29 min left
+    3.39 GB of 4.92 GB (68%), 0.9 MB/s, about 28 min left
+    3.39 GB of 4.92 GB (68%), 0.9 MB/s, about 28 min left
+    3.39 GB of 4.92 GB (68%), 0.9 MB/s, about 28 min left
+    3.39 GB of 4.92 GB (68%), 0.9 MB/s, about 28 min left
+    3.39 GB of 4.92 GB (68%), 0.9 MB/s, about 28 min left
+    3.40 GB of 4.92 GB (68%), 0.9 MB/s, about 28 min left
+    3.40 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.40 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.40 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.40 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.41 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.41 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.41 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.41 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.41 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.42 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.42 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.42 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.43 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.43 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.43 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.43 GB of 4.92 GB (69%), 0.9 MB/s, about 28 min left
+    3.46 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.46 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.46 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.46 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.47 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.47 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.47 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.47 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.49 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.49 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.49 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.49 GB of 4.92 GB (70%), 0.9 MB/s, about 27 min left
+    3.50 GB of 4.92 GB (71%), 0.9 MB/s, about 27 min left
+    3.50 GB of 4.92 GB (71%), 0.9 MB/s, about 27 min left
+    3.51 GB of 4.92 GB (71%), 0.9 MB/s, about 27 min left
+    3.51 GB of 4.92 GB (71%), 0.9 MB/s, about 27 min left
+    3.54 GB of 4.92 GB (71%), 0.9 MB/s, about 26 min left
+    3.56 GB of 4.92 GB (72%), 0.9 MB/s, about 26 min left
+    3.56 GB of 4.92 GB (72%), 0.9 MB/s, about 26 min left
+    3.56 GB of 4.92 GB (72%), 0.9 MB/s, about 26 min left
+    3.56 GB of 4.92 GB (72%), 0.9 MB/s, about 26 min left
+    3.57 GB of 4.92 GB (72%), 0.9 MB/s, about 25 min left
+    3.57 GB of 4.92 GB (72%), 0.9 MB/s, about 25 min left
+    3.57 GB of 4.92 GB (72%), 0.9 MB/s, about 25 min left
+    3.57 GB of 4.92 GB (72%), 0.9 MB/s, about 25 min left
+    3.61 GB of 4.92 GB (73%), 0.9 MB/s, about 24 min left
+    3.63 GB of 4.92 GB (73%), 0.9 MB/s, about 24 min left
+    3.63 GB of 4.92 GB (73%), 0.9 MB/s, about 24 min left
+    3.64 GB of 4.92 GB (73%), 0.9 MB/s, about 24 min left
+    3.64 GB of 4.92 GB (73%), 0.9 MB/s, about 24 min left
+    3.64 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.64 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.64 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.64 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.65 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.65 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.65 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.65 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.66 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.66 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.66 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.66 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.67 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.67 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.67 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.67 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.68 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.68 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.68 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.68 GB of 4.92 GB (74%), 0.9 MB/s, about 24 min left
+    3.72 GB of 4.92 GB (75%), 0.9 MB/s, about 23 min left
+    3.76 GB of 4.92 GB (76%), 0.9 MB/s, about 22 min left
+    3.76 GB of 4.92 GB (76%), 0.9 MB/s, about 22 min left
+    3.77 GB of 4.92 GB (76%), 0.9 MB/s, about 22 min left
+    3.77 GB of 4.92 GB (76%), 0.9 MB/s, about 22 min left
+    3.77 GB of 4.92 GB (76%), 0.9 MB/s, about 22 min left
+    3.77 GB of 4.92 GB (76%), 0.9 MB/s, about 22 min left
+    3.77 GB of 4.92 GB (76%), 0.9 MB/s, about 22 min left
+    3.77 GB of 4.92 GB (76%), 0.9 MB/s, about 22 min left
+    3.78 GB of 4.92 GB (76%), 0.9 MB/s, about 21 min left
+    3.79 GB of 4.92 GB (76%), 0.9 MB/s, about 21 min left
+    3.79 GB of 4.92 GB (76%), 0.9 MB/s, about 21 min left
+    3.79 GB of 4.92 GB (76%), 0.9 MB/s, about 21 min left
+    3.83 GB of 4.92 GB (77%), 0.9 MB/s, about 20 min left
+    3.87 GB of 4.92 GB (78%), 0.9 MB/s, about 19 min left
+    3.92 GB of 4.92 GB (79%), 0.9 MB/s, about 18 min left
+    3.97 GB of 4.92 GB (80%), 0.9 MB/s, about 17 min left
+    4.02 GB of 4.92 GB (81%), 1.0 MB/s, about 16 min left
+    4.06 GB of 4.92 GB (82%), 1.0 MB/s, about 15 min left
+    4.11 GB of 4.92 GB (83%), 1.0 MB/s, about 14 min left
+    4.16 GB of 4.92 GB (84%), 1.0 MB/s, about 13 min left
+    4.20 GB of 4.92 GB (85%), 1.0 MB/s, about 12 min left
+    4.25 GB of 4.92 GB (86%), 1.0 MB/s, about 12 min left
+    4.30 GB of 4.92 GB (87%), 1.0 MB/s, about 11 min left
+    4.35 GB of 4.92 GB (88%), 1.0 MB/s, about 10 min left
+    4.40 GB of 4.92 GB (89%), 1.0 MB/s, about 9 min left
+    4.44 GB of 4.92 GB (90%), 1.0 MB/s, about 8 min left
+    4.49 GB of 4.92 GB (91%), 1.1 MB/s, about 7 min left
+    4.54 GB of 4.92 GB (92%), 1.1 MB/s, about 7 min left
+    4.58 GB of 4.92 GB (93%), 1.1 MB/s, about 6 min left
+    4.63 GB of 4.92 GB (94%), 1.1 MB/s, about 5 min left
+    4.68 GB of 4.92 GB (95%), 1.1 MB/s, about 4 min left
+    4.72 GB of 4.92 GB (95%), 1.1 MB/s, about 3 min left
+    4.77 GB of 4.92 GB (96%), 1.1 MB/s, about 3 min left
+    4.82 GB of 4.92 GB (97%), 1.1 MB/s, about 2 min left
+    4.87 GB of 4.92 GB (98%), 1.1 MB/s, about 1 min left
+    4.92 GB of 4.92 GB (99%), 1.1 MB/s, about 1 min left
+    checking the file ...
+    done
+
+Everything is ready.
+
+pace_hw_sweep 1.1
+Plan
+  clock settings   : 11  (core lock 600,900,1200,1500,1800,2100,2400,0 MHz  x  memory lock 6001,7001,8001,0 MHz, grid 'cross'; 0 = driver default)
+  tests per setting: prefill 128, prefill 1024, decode d0, decode d1024
+  passes           : 2, each in a different random order
+  at default clocks: prefill 32, prefill 64, prefill 128, prefill 256, prefill 512, prefill 1024, prefill 2048, decode d0, decode d512, decode d1024, decode d2048, decode d4096
+  measurements     : 101, each runs for about 7 s -> about 18 minutes for a 1B model
+
+GPU      : NVIDIA GeForce RTX 4060 Laptop GPU (driver 580.97)
+Sensors  : power yes, instantaneous power yes, energy counter yes
+Locks    : allowed (through NVML)
+Idle     : 16.5 W, power limit now 140 W (default 115 W)
+Model    : llama 8B Q4_K - Medium, 4.91 GB, 8.03 B parameters | llama.cpp build 11425, backend CUDA
+  prefill 512   core auto  mem auto |   0.3885 ms/tok   2574.2 tok/s | 110.2 W   42.805 mJ/tok | 2640/8501 MHz
+Power    : GPU power sensor 110.2 W, its 1-second average 110.1 W, energy counter 196.6 W
+           The energy counter does not match the power sensor on this GPU. All results use the sensor.
+Memory   : lock 6001 -> 6001 MHz, lock 7001 -> 7001 MHz, lock 8001 -> 8501 MHz (default 8501 MHz)
+           memory lock 8001 MHz is left out: it runs at 8501 MHz, the same as the default
+           -> 10 clock settings, 93 measurements, about 16 minutes
+Results  : D:\codeFiles\PycharmProjects\PACE_hw_validation\results\pace_hw_Meta-Llama-3.1-8B-Instruct-Q4_K_M_20261009_0150.csv
+
+Please leave the laptop alone while this runs. Ctrl+C stops it safely.
+
+Default clocks (the driver chooses)
+  prefill 32    core auto  mem auto |   0.8152 ms/tok   1226.8 tok/s | 110.2 W   89.837 mJ/tok | 2640/8501 MHz
+  prefill 64    core auto  mem auto |   0.5431 ms/tok   1841.2 tok/s | 115.0 W   62.480 mJ/tok | 2640/8501 MHz
+  prefill 128   core auto  mem auto |   0.4180 ms/tok   2392.2 tok/s | 114.8 W   47.991 mJ/tok | 2625/8501 MHz  limit: sw_thermal
+  prefill 256   core auto  mem auto |   0.3952 ms/tok   2530.6 tok/s | 111.4 W   44.026 mJ/tok | 2595/8501 MHz  limit: sw_thermal
+  prefill 512   core auto  mem auto |   0.3950 ms/tok   2531.9 tok/s | 108.5 W   42.861 mJ/tok | 2565/8501 MHz  limit: sw_thermal
+  prefill 1024  core auto  mem auto |   0.3949 ms/tok   2532.1 tok/s | 109.3 W   43.160 mJ/tok | 2580/8501 MHz  limit: sw_thermal
+  prefill 2048  core auto  mem auto |   0.4042 ms/tok   2473.7 tok/s | 107.1 W   43.278 mJ/tok | 2580/8501 MHz  limit: sw_thermal
+  decode d0     core auto  mem auto |  18.7761 ms/tok     53.3 tok/s | 108.7 W 2040.343 mJ/tok | 2640/8501 MHz
+  decode d512   core auto  mem auto |  19.0540 ms/tok     52.5 tok/s | 107.0 W 2039.062 mJ/tok | 2640/8501 MHz  limit: sw_thermal
+  decode d1024  core auto  mem auto |  19.3445 ms/tok     51.7 tok/s | 101.0 W 1952.913 mJ/tok | 2640/8501 MHz  limit: sw_thermal  [clock_unsteady]
+  decode d2048  core auto  mem auto |  19.9014 ms/tok     50.2 tok/s |  92.3 W 1836.081 mJ/tok | 2295/8501 MHz  limit: sw_thermal  [clock_unsteady]
+  decode d4096  core auto  mem auto |  21.1707 ms/tok     47.2 tok/s |  95.3 W 2018.426 mJ/tok | 2415/8501 MHz  limit: sw_thermal  [clock_unsteady]
+
+Clock grid, pass 1 of 2 (10 settings)
+  prefill 128   core auto  mem auto |   0.4252 ms/tok   2351.8 tok/s | 109.8 W   46.667 mJ/tok | 2565/8501 MHz  limit: sw_thermal
+  prefill 1024  core auto  mem auto |   0.4012 ms/tok   2492.7 tok/s | 103.9 W   41.675 mJ/tok | 2520/8501 MHz  limit: sw_thermal
+  decode d0     core auto  mem auto |  18.7700 ms/tok     53.3 tok/s | 106.0 W 1990.304 mJ/tok | 2625/8501 MHz  limit: sw_thermal
+  decode d1024  core auto  mem auto |  19.4518 ms/tok     51.4 tok/s |  93.9 W 1826.927 mJ/tok | 2295/8501 MHz  limit: sw_thermal  [clock_unsteady]
+  prefill 128   core auto  mem 6001 |   0.4549 ms/tok   2198.1 tok/s | 102.5 W   46.633 mJ/tok | 2625/6001 MHz
+  prefill 1024  core auto  mem 6001 |   0.4372 ms/tok   2287.1 tok/s | 101.0 W   44.162 mJ/tok | 2625/6001 MHz
+  decode d0     core auto  mem 6001 |  26.3673 ms/tok     37.9 tok/s |  76.5 W 2016.547 mJ/tok | 2640/6001 MHz
+  decode d1024  core auto  mem 6001 |  27.1435 ms/tok     36.8 tok/s |  76.7 W 2082.748 mJ/tok | 2640/6001 MHz
+  ... about 17 minutes left
+  prefill 128   core auto  mem 7001 |   0.4355 ms/tok   2296.4 tok/s | 107.1 W   46.632 mJ/tok | 2625/7001 MHz
+  prefill 1024  core auto  mem 7001 |   0.4155 ms/tok   2406.9 tok/s | 103.6 W   43.038 mJ/tok | 2618/7001 MHz  limit: sw_thermal
+  decode d0     core auto  mem 7001 |  22.6865 ms/tok     44.1 tok/s |  87.0 W 1973.410 mJ/tok | 2640/7001 MHz
+  decode d1024  core auto  mem 7001 |  23.3406 ms/tok     42.8 tok/s |  87.1 W 2033.518 mJ/tok | 2640/7001 MHz
+  prefill 128   core 900   mem auto |   1.0731 ms/tok    931.9 tok/s |  32.4 W   34.733 mJ/tok | 900/8501 MHz
+  prefill 1024  core 900   mem auto |   0.9920 ms/tok   1008.1 tok/s |  29.2 W   28.952 mJ/tok | 900/8501 MHz
+  decode d0     core 900   mem auto |  29.2899 ms/tok     34.1 tok/s |  45.9 W 1344.177 mJ/tok | 900/8501 MHz
+  decode d1024  core 900   mem auto |  30.6739 ms/tok     32.6 tok/s |  45.5 W 1394.230 mJ/tok | 900/8501 MHz
+  prefill 128   core 2400  mem auto |   0.4461 ms/tok   2241.8 tok/s |  91.5 W   40.840 mJ/tok | 2400/8501 MHz
+  prefill 1024  core 2400  mem auto |   0.4169 ms/tok   2398.8 tok/s |  88.5 W   36.911 mJ/tok | 2400/8501 MHz
+  decode d0     core 2400  mem auto |  18.8865 ms/tok     53.0 tok/s |  90.2 W 1703.042 mJ/tok | 2400/8501 MHz
+  decode d1024  core 2400  mem auto |  19.4108 ms/tok     51.5 tok/s |  91.0 W 1767.088 mJ/tok | 2400/8501 MHz
+  prefill 128   core 1800  mem auto |   0.5652 ms/tok   1769.4 tok/s |  57.3 W   32.370 mJ/tok | 1800/8501 MHz
+  prefill 1024  core 1800  mem auto |   0.5212 ms/tok   1918.5 tok/s |  53.8 W   28.041 mJ/tok | 1800/8501 MHz
+  decode d0     core 1800  mem auto |  19.2510 ms/tok     52.0 tok/s |  67.0 W 1289.037 mJ/tok | 1800/8501 MHz
+  decode d1024  core 1800  mem auto |  19.9215 ms/tok     50.2 tok/s |  67.0 W 1334.754 mJ/tok | 1800/8501 MHz
+  prefill 128   core 1200  mem auto |   0.8132 ms/tok   1229.8 tok/s |  37.1 W   30.182 mJ/tok | 1200/8501 MHz
+  prefill 1024  core 1200  mem auto |   0.7487 ms/tok   1335.7 tok/s |  33.7 W   25.233 mJ/tok | 1200/8501 MHz
+  decode d0     core 1200  mem auto |  22.3010 ms/tok     44.8 tok/s |  51.8 W 1155.852 mJ/tok | 1200/8501 MHz
+  decode d1024  core 1200  mem auto |  23.3798 ms/tok     42.8 tok/s |  51.2 W 1198.029 mJ/tok | 1200/8501 MHz
+  ... about 12 minutes left
+  prefill 128   core 600   mem auto |   1.5648 ms/tok    639.0 tok/s |  26.2 W   41.012 mJ/tok | 600/8501 MHz
+  prefill 1024  core 600   mem auto |   1.4497 ms/tok    689.8 tok/s |  24.6 W   35.592 mJ/tok | 600/8501 MHz
+  decode d0     core 600   mem auto |  41.5593 ms/tok     24.1 tok/s |  40.2 W 1668.842 mJ/tok | 600/8501 MHz
+  decode d1024  core 600   mem auto |  43.6166 ms/tok     22.9 tok/s |  39.7 W 1731.263 mJ/tok | 600/8501 MHz
+  prefill 128   core 2100  mem auto |   0.4969 ms/tok   2012.4 tok/s |  69.3 W   34.457 mJ/tok | 2100/8501 MHz
+  prefill 1024  core 2100  mem auto |   0.4584 ms/tok   2181.7 tok/s |  66.7 W   30.573 mJ/tok | 2100/8501 MHz
+  decode d0     core 2100  mem auto |  18.9497 ms/tok     52.8 tok/s |  75.8 W 1435.528 mJ/tok | 2100/8501 MHz
+  decode d1024  core 2100  mem auto |  19.6417 ms/tok     50.9 tok/s |  76.1 W 1493.965 mJ/tok | 2100/8501 MHz
+  prefill 128   core 1500  mem auto |   0.6628 ms/tok   1508.7 tok/s |  45.3 W   30.056 mJ/tok | 1500/8501 MHz
+  prefill 1024  core 1500  mem auto |   0.6116 ms/tok   1635.1 tok/s |  42.1 W   25.774 mJ/tok | 1500/8501 MHz
+  decode d0     core 1500  mem auto |  19.7969 ms/tok     50.5 tok/s |  58.8 W 1163.561 mJ/tok | 1500/8501 MHz
+  decode d1024  core 1500  mem auto |  20.6145 ms/tok     48.5 tok/s |  58.1 W 1198.441 mJ/tok | 1500/8501 MHz
+
+Clock grid, pass 2 of 2 (10 settings)
+  prefill 128   core auto  mem auto |   0.4176 ms/tok   2394.4 tok/s | 115.5 W   48.248 mJ/tok | 2618/8501 MHz  limit: sw_thermal
+  prefill 1024  core auto  mem auto |   0.3961 ms/tok   2524.5 tok/s | 108.0 W   42.788 mJ/tok | 2580/8501 MHz  limit: sw_thermal
+  decode d0     core auto  mem auto |  18.7767 ms/tok     53.3 tok/s | 109.1 W 2048.766 mJ/tok | 2625/8501 MHz
+  decode d1024  core auto  mem auto |  19.3524 ms/tok     51.7 tok/s |  99.9 W 1933.408 mJ/tok | 2490/8501 MHz  limit: sw_thermal  [clock_unsteady]
+  prefill 128   core auto  mem 7001 |   0.4358 ms/tok   2294.8 tok/s | 107.9 W   47.009 mJ/tok | 2625/7001 MHz  limit: sw_thermal
+  prefill 1024  core auto  mem 7001 |   0.4155 ms/tok   2406.7 tok/s | 103.8 W   43.116 mJ/tok | 2625/7001 MHz  limit: sw_thermal
+  decode d0     core auto  mem 7001 |  22.7351 ms/tok     44.0 tok/s |  87.1 W 1979.921 mJ/tok | 2640/7001 MHz
+  decode d1024  core auto  mem 7001 |  23.3683 ms/tok     42.8 tok/s |  85.9 W 2008.070 mJ/tok | 2640/7001 MHz
+  ... about 7 minutes left
+  prefill 128   core 2400  mem auto |   0.4456 ms/tok   2244.4 tok/s |  93.1 W   41.463 mJ/tok | 2400/8501 MHz
+  prefill 1024  core 2400  mem auto |   0.4166 ms/tok   2400.2 tok/s |  90.8 W   37.852 mJ/tok | 2400/8501 MHz
+  decode d0     core 2400  mem auto |  18.8576 ms/tok     53.0 tok/s |  91.4 W 1724.273 mJ/tok | 2400/8501 MHz  limit: sw_thermal
+  decode d1024  core 2400  mem auto |  19.4590 ms/tok     51.4 tok/s |  89.0 W 1732.025 mJ/tok | 2295/8501 MHz  limit: sw_thermal  [clock_unsteady|core_lock_not_held]
+  prefill 128   core auto  mem 6001 |   0.4545 ms/tok   2200.5 tok/s | 102.8 W   46.730 mJ/tok | 2625/6001 MHz
+  prefill 1024  core auto  mem 6001 |   0.4370 ms/tok   2288.2 tok/s | 101.4 W   44.327 mJ/tok | 2625/6001 MHz
+  decode d0     core auto  mem 6001 |  26.4046 ms/tok     37.9 tok/s |  76.5 W 2019.497 mJ/tok | 2640/6001 MHz
+  decode d1024  core auto  mem 6001 |  27.1991 ms/tok     36.8 tok/s |  76.7 W 2086.900 mJ/tok | 2640/6001 MHz
+  prefill 128   core 1200  mem auto |   0.8142 ms/tok   1228.2 tok/s |  37.2 W   30.323 mJ/tok | 1200/8501 MHz
+  prefill 1024  core 1200  mem auto |   0.7493 ms/tok   1334.5 tok/s |  34.0 W   25.443 mJ/tok | 1200/8501 MHz
+  decode d0     core 1200  mem auto |  22.3354 ms/tok     44.8 tok/s |  52.0 W 1160.523 mJ/tok | 1200/8501 MHz
+  decode d1024  core 1200  mem auto |  23.4196 ms/tok     42.7 tok/s |  50.4 W 1179.752 mJ/tok | 1200/8501 MHz
+  prefill 128   core 2100  mem auto |   0.4967 ms/tok   2013.2 tok/s |  70.7 W   35.135 mJ/tok | 2100/8501 MHz
+  prefill 1024  core 2100  mem auto |   0.4586 ms/tok   2180.5 tok/s |  67.6 W   31.000 mJ/tok | 2100/8501 MHz
+  decode d0     core 2100  mem auto |  18.9342 ms/tok     52.8 tok/s |  76.1 W 1441.621 mJ/tok | 2100/8501 MHz
+  decode d1024  core 2100  mem auto |  19.5628 ms/tok     51.1 tok/s |  75.3 W 1473.593 mJ/tok | 2100/8501 MHz
+  prefill 128   core 900   mem auto |   1.0734 ms/tok    931.6 tok/s |  32.3 W   34.702 mJ/tok | 900/8501 MHz
+  prefill 1024  core 900   mem auto |   0.9923 ms/tok   1007.8 tok/s |  29.8 W   29.524 mJ/tok | 900/8501 MHz
+  decode d0     core 900   mem auto |  29.3111 ms/tok     34.1 tok/s |  45.9 W 1345.768 mJ/tok | 900/8501 MHz
+  decode d1024  core 900   mem auto |  30.6102 ms/tok     32.7 tok/s |  45.6 W 1395.676 mJ/tok | 900/8501 MHz
+  ... about 3 minutes left
+  prefill 128   core 1500  mem auto |   0.6624 ms/tok   1509.7 tok/s |  45.0 W   29.822 mJ/tok | 1500/8501 MHz
+  prefill 1024  core 1500  mem auto |   0.6116 ms/tok   1635.0 tok/s |  41.8 W   25.539 mJ/tok | 1500/8501 MHz
+  decode d0     core 1500  mem auto |  19.8053 ms/tok     50.5 tok/s |  58.5 W 1159.168 mJ/tok | 1500/8501 MHz
+  decode d1024  core 1500  mem auto |  20.6070 ms/tok     48.5 tok/s |  58.1 W 1196.664 mJ/tok | 1500/8501 MHz
+  prefill 128   core 600   mem auto |   1.5651 ms/tok    638.9 tok/s |  26.3 W   41.134 mJ/tok | 600/8501 MHz
+  prefill 1024  core 600   mem auto |   1.4498 ms/tok    689.8 tok/s |  24.6 W   35.721 mJ/tok | 600/8501 MHz
+  decode d0     core 600   mem auto |  41.6296 ms/tok     24.0 tok/s |  40.0 W 1666.291 mJ/tok | 600/8501 MHz
+  decode d1024  core 600   mem auto |  43.5524 ms/tok     23.0 tok/s |  39.7 W 1728.652 mJ/tok | 600/8501 MHz
+  prefill 128   core 1800  mem auto |   0.5652 ms/tok   1769.4 tok/s |  56.5 W   31.909 mJ/tok | 1800/8501 MHz
+  prefill 1024  core 1800  mem auto |   0.5214 ms/tok   1918.0 tok/s |  53.1 W   27.695 mJ/tok | 1800/8501 MHz
+  decode d0     core 1800  mem auto |  19.2275 ms/tok     52.0 tok/s |  66.3 W 1275.816 mJ/tok | 1800/8501 MHz
+  decode d1024  core 1800  mem auto |  19.8904 ms/tok     50.3 tok/s |  65.6 W 1304.889 mJ/tok | 1800/8501 MHz
+
+Finished in 20.5 minutes. Idle power at the end: 17.0 W (at the start: 16.5 W).
+Clocks returned to default.
+
+====================================================================================================
+Meta-Llama-3.1-8B-Instruct-Q4_K_M  |  NVIDIA GeForce RTX 4060 Laptop GPU
+====================================================================================================
+
+Default clocks (the driver chooses)
+  test             ms/token      tok/s   power W   mJ/token  core MHz   mem MHz
+  prefill 32         0.8152     1226.8     110.2     89.837      2640      8501
+  prefill 64         0.5431     1841.2     115.0     62.480      2640      8501
+  prefill 128        0.4180     2392.2     114.8     47.991      2625      8501
+  prefill 256        0.3952     2530.6     111.4     44.026      2595      8501
+  prefill 512        0.3917     2553.1     109.4     42.833      2602      8501
+  prefill 1024       0.3949     2532.1     109.3     43.160      2580      8501
+  prefill 2048       0.4042     2473.7     107.1     43.278      2580      8501
+  decode d0         18.7761       53.3     108.7   2040.343      2640      8501
+  decode d512       19.0540       52.5     107.0   2039.062      2640      8501
+  decode d1024      19.3445       51.7     101.0   1952.913      2640      8501
+  decode d2048      19.9014       50.2      92.3   1836.081      2295      8501
+  decode d4096      21.1707       47.2      95.3   2018.426      2415      8501
+
+Time per token (ms). Rows: core clock lock (MHz). Columns: memory clock lock (MHz). 'auto' = driver default.
+  prefill 128          6001       7001       auto
+             600          -          -     1.5650
+             900          -          -     1.0732
+            1200          -          -     0.8137
+            1500          -          -     0.6626
+            1800          -          -     0.5652
+            2100          -          -     0.4968
+            2400          -          -     0.4458
+            auto     0.4547     0.4356     0.4214
+  prefill 1024         6001       7001       auto
+             600          -          -     1.4497
+             900          -          -     0.9921
+            1200          -          -     0.7490
+            1500          -          -     0.6116
+            1800          -          -     0.5213
+            2100          -          -     0.4585
+            2400          -          -     0.4168
+            auto     0.4371     0.4155     0.3987
+  decode d0            6001       7001       auto
+             600          -          -    41.5944
+             900          -          -    29.3005
+            1200          -          -    22.3182
+            1500          -          -    19.8011
+            1800          -          -    19.2392
+            2100          -          -    18.9419
+            2400          -          -    18.8721
+            auto    26.3860    22.7108    18.7733
+  decode d1024         6001       7001       auto
+             600          -          -    43.5845
+             900          -          -    30.6421
+            1200          -          -    23.3997
+            1500          -          -    20.6108
+            1800          -          -    19.9060
+            2100          -          -    19.6023
+            2400          -          -    19.4349
+            auto    27.1713    23.3544    19.4021
+
+Power (W). Rows: core clock lock (MHz). Columns: memory clock lock (MHz). 'auto' = driver default.
+  prefill 128          6001       7001       auto
+             600          -          -       26.2
+             900          -          -       32.3
+            1200          -          -       37.2
+            1500          -          -       45.2
+            1800          -          -       56.9
+            2100          -          -       70.0
+            2400          -          -       92.3
+            auto      102.7      107.5      112.6
+  prefill 1024         6001       7001       auto
+             600          -          -       24.6
+             900          -          -       29.5
+            1200          -          -       33.8
+            1500          -          -       41.9
+            1800          -          -       53.5
+            2100          -          -       67.1
+            2400          -          -       89.7
+            auto      101.2      103.7      105.9
+  decode d0            6001       7001       auto
+             600          -          -       40.1
+             900          -          -       45.9
+            1200          -          -       51.9
+            1500          -          -       58.7
+            1800          -          -       66.7
+            2100          -          -       75.9
+            2400          -          -       90.8
+            auto       76.5       87.0      107.6
+  decode d1024         6001       7001       auto
+             600          -          -       39.7
+             900          -          -       45.5
+            1200          -          -       50.8
+            1500          -          -       58.1
+            1800          -          -       66.3
+            2100          -          -       75.7
+            2400          -          -       90.0
+            auto       76.7       86.5       96.9
+
+Energy per token (mJ). Rows: core clock lock (MHz). Columns: memory clock lock (MHz). 'auto' = driver default.
+  prefill 128          6001       7001       auto
+             600          -          -     41.073
+             900          -          -     34.718
+            1200          -          -     30.253
+            1500          -          -     29.939
+            1800          -          -     32.140
+            2100          -          -     34.796
+            2400          -          -     41.152
+            auto     46.682     46.821     47.458
+  prefill 1024         6001       7001       auto
+             600          -          -     35.656
+             900          -          -     29.238
+            1200          -          -     25.338
+            1500          -          -     25.656
+            1800          -          -     27.868
+            2100          -          -     30.786
+            2400          -          -     37.382
+            auto     44.244     43.077     42.232
+  decode d0            6001       7001       auto
+             600          -          -   1667.567
+             900          -          -   1344.973
+            1200          -          -   1158.187
+            1500          -          -   1161.364
+            1800          -          -   1282.427
+            2100          -          -   1438.575
+            2400          -          -   1713.658
+            auto   2018.022   1976.666   2019.535
+  decode d1024         6001       7001       auto
+             600          -          -   1729.957
+             900          -          -   1394.953
+            1200          -          -   1188.890
+            1500          -          -   1197.552
+            1800          -          -   1319.822
+            2100          -          -   1483.779
+            2400          -          -   1749.557
+            auto   2084.824   2020.794   1880.167
+
+Which clock does each phase follow?  (1 = the time follows this clock fully, 0 = no effect)
+  test             core clock   memory clock
+  prefill 128            0.90           0.22
+  prefill 1024           0.90           0.26
+  decode d0              0.53           0.98
+  decode d1024           0.57           0.97
+
+Energy per token against default clocks: the best setting that costs at most 5% more time,
+and the best setting when time does not matter
+  prefill 128    same speed : core auto  mem 7001   energy   -1.3%  time   +3.4%
+  prefill 128    any speed  : core 1500  mem auto   energy  -36.9%  time  +57.2%
+  prefill 1024   same speed : core 2400  mem auto   energy  -11.5%  time   +4.5%
+  prefill 1024   any speed  : core 1200  mem auto   energy  -40.0%  time  +87.9%
+  decode d0      same speed : core 1800  mem auto   energy  -36.5%  time   +2.5%
+  decode d0      any speed  : core 1200  mem auto   energy  -42.7%  time  +18.9%
+  decode d1024   same speed : core 1800  mem auto   energy  -29.8%  time   +2.6%
+  decode d1024   any speed  : core 1200  mem auto   energy  -36.8%  time  +20.6%
+
+Please send this file:  D:\codeFiles\PycharmProjects\PACE_hw_validation\results\pace_hw_Meta-Llama-3.1-8B-Instruct-Q4_K_M_20261009_0150.zip
