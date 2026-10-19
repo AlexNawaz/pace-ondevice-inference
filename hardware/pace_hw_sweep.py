@@ -3,44 +3,11 @@
 """
 pace_hw_sweep.py - measurement engine of the PACE hardware validation (NVIDIA GPU, Windows or Linux)
 
-Most people do not start this file. Run main.py instead: it downloads what is needed and
-calls this engine with the right options. This file can also be used alone from a terminal.
-
 What it does
   It locks the GPU core clock and the GPU memory clock to each point of a grid. At every point it
   measures prefill and decode of a GGUF model with llama.cpp's llama-bench: time per token, power
   and energy. This checks the main claim of the paper on real hardware: prefill should follow the
   core clock and decode should follow the memory clock.
-
-Use from a terminal (administrator rights are needed to lock clocks)
-  Quick check, about 4 minutes      python pace_hw_sweep.py --model MODEL.gguf --quick
-  Full sweep, about 45 minutes      python pace_hw_sweep.py --model MODEL.gguf
-  Clock-switch time, 2 minutes      python pace_hw_sweep.py --model MODEL.gguf --transition
-  --dry-run             show the plan and the expected duration, measure nothing
-  --resume FILE.csv     continue a sweep that was stopped
-  --summary FILE.csv    print the result tables of a finished sweep again
-  --reanalyse FILE_raw.jsonl   compute the results of an earlier run again from its raw samples
-  --grid cross          shorter sweep for big models (one clock is varied at a time)
-
-How a measurement is read
-  Every llama-bench run starts with the GPU waking up and raising its clocks, which takes about a
-  second. The repetitions of the first --settle seconds (default 2) are therefore not used. Time per
-  token comes from the remaining repetitions; power is the mean of the GPU power sensor over the
-  same time. The driver's energy counter is recorded as well, but not used: on some laptops it does
-  not match the power sensor.
-
-Output
-  pace_hw_<model>_<date>.csv         one line per measurement (opens in Excel)
-  pace_hw_<model>_<date>_raw.jsonl   the raw samples behind every line
-  pace_hw_<model>_<date>_log.txt     everything that was printed on the screen
-  pace_hw_<model>_<date>.zip         all result files together; this is the file to send
-
-Safety
-  The script only asks the driver to lock clocks; the driver refuses any value outside its
-  supported range, and such a setting is skipped. Clocks are always returned to default at the
-  end, also after an error, Ctrl+C or closing the window. If the computer was switched off in the
-  middle, the locks are gone after the restart. To clear them by hand, run as administrator:
-      nvidia-smi -rgc     nvidia-smi -rmc
 """
 import argparse
 import collections

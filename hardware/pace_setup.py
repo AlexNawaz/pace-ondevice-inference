@@ -3,13 +3,6 @@
 """
 pace_setup.py - first-run setup for the PACE hardware measurements
 
-It is called by main.py. On the first run it gets everything the measurements need:
-  1. the Python package nvidia-ml-py (installed with pip into the Python that runs main.py)
-  2. llama.cpp for Windows with CUDA, fixed to one release so that results can be repeated
-  3. the model file(s)
-Every downloaded file is checked against its official SHA-256 checksum. A download that was
-interrupted continues where it stopped. Several addresses are tried for each file; if none of
-them works, the script says which file to download by hand and where to put it.
 """
 import hashlib
 import http.client

@@ -21,12 +21,6 @@ How to run it in PyCharm
      measurement; the same text also appears in PyCharm. Leave both windows alone until it ends.
   6. Send the .zip file that is named in the last line. It is in the folder "results".
 
-What happens on the first run
-  The script installs the Python package nvidia-ml-py, then downloads llama.cpp (656 MB) and the
-  model (1.3 GB). This happens once. If the connection breaks, run main.py again: the download
-  continues where it stopped. Every file is checked against its official checksum.
-  If a download does not work at all, the script names the file, the address and the folder to
-  put it in. After you have put the file there, run main.py again.
 
 The menu
   1  Quick check             4 minutes. Do this first and send the result.

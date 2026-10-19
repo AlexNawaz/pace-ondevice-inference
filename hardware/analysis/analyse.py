@@ -1,8 +1,6 @@
 """Section 7: time and energy per token against the core clock (memory clock at its default),
 relative to the default clock pair, for the 1B, 3B and 8B models.
-
-Reads the measured CSVs in ../data and writes the values behind Table 9 and Fig. 13 to
-../../results_hw/hw_clocks_data.json. Run:  python analyse.py"""
+"""
 import os, sys, json
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from hwlib import *

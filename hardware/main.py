@@ -1,20 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-PACE hardware measurements - start here.
 
-In PyCharm:  open this folder as a project, open main.py and press Run. Type a number in the
-             Run window at the bottom and press Enter.
-In a terminal:  python main.py           shows the menu
-                python main.py quick     runs one item directly (quick, full, 3b, 8b, switch,
-                                         tables, download)
-
-The first run downloads llama.cpp and the model (about 2 GB). Before a measurement Windows asks
-for administrator rights, because changing GPU clocks needs them. The measurement then runs in
-a second window, and everything it prints is also shown here.
-
-Results are written into the folder "results". Send the .zip file named at the end.
-"""
 import glob
 import json
 import os

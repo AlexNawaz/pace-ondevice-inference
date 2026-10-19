@@ -1,13 +1,4 @@
 """
-pace_revision_experiments.py
-Additional experiments for the JSA revision (manuscript JSA-D-26-01718).
-
-Imports the unchanged pace_sim.py from the same folder and never modifies it,
-so Table 3 and Figs. 5-11 of the submitted paper are reproduced exactly.
-Every new number in the revised paper is printed by this script and stored in
-results_rev/revision_results.json; the new figures go to results_rev/.
-
-Run:  python pace_revision_experiments.py
 """
 import math
 import json
