@@ -5,7 +5,7 @@ Code and measurement data for
 
 
 Every number reported in the paper is computed by the scripts below. The charts
-themselves were drawn separately and are not part of this release.
+themselves were drawn separately.
 
     pip install -r requirements.txt     # numpy, matplotlib
 
@@ -17,8 +17,7 @@ themselves were drawn separately and are not part of this release.
     python pace_revision_experiments.py     # ~4 min  -> results_rev/
 
 `pace_sim.py` is the discrete-event simulator of the roofline-and-energy model
-of Section 3. It prints the main comparison of Table 3 and writes
-`results/summary.txt` and the LaTeX source of Tables 2 and 3.
+of Section 3. 
 
 `pace_revision_experiments.py` imports `pace_sim.py` unchanged and adds every
 experiment introduced in the revision. Before it runs, it re-evaluates all four
@@ -37,9 +36,7 @@ The measured data is included, so the analysis can be reproduced without a GPU:
     cd hardware/analysis
     python analyse.py                       # -> results_hw/hw_clocks_data.json
 
-This prints and stores every value behind Table 9 and Fig. 13: time and energy
-per token against the core clock, relative to the default clock pair, for each
-model and phase.
+
 
 `hardware/data/` holds, for each of the three models, the per-setting CSV, the
 run log, and the raw per-repetition records (`_raw.jsonl`) behind every value.
@@ -47,16 +44,11 @@ run log, and the raw per-repetition records (`_raw.jsonl`) behind every value.
 To repeat the measurements on another machine, `hardware/` contains the sweep
 itself (`main.py`, `pace_hw_sweep.py`, `pace_setup.py`); see `hardware/README.txt`
 for the requirements (NVIDIA GPU, llama.cpp, NVML, administrator rights to lock
-the clocks). This step is optional and is not needed to reproduce the paper.
+the clocks). 
 
 
 
 
-## Platform parameters
-
-The per-PE parameters of Table 2 are at the top of `pace_sim.py` (`build_soc`).
-They are representative of a contemporary mobile SoC and are not measured from a
-specific commercial device, as stated in Section 3 of the paper.
 
 
 ## Licence
